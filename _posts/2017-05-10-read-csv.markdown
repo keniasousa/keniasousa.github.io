@@ -1,0 +1,147 @@
+---
+layout: post
+title:  "Read CSV file in Python"
+date:   2017-05-10 22:31:55 +0100
+categories: python
+---
+I've learned a lot on data analysis from the [Coursera Course on Introduction to
+Data Science in Python][intro-data-analysis-python]. We are going to start by
+reading a CSV file online and exploring the data.
+
+During the course, most of the data analysis was done using the
+[Jupyter Notebook][jupyter-notebook] embedded into the Coursera courses. On my
+laptop, I set up the environment with the Python IDE [PyCharm][pycharm]
+following these steps:
+- Go to the folder where the file is located: `cd data-science`
+- Create a virtual environment where I installed the libraries needed for this
+  specific project: `python3 -m venv venv`
+- Initialise the virtual environment: `source venv/bin/activate`
+- Install the libraries: `pip install pandas`
+- In PythonCharm, use this virtual environment by editing the Run/Debug
+  configurations and choose the virtual environment as Python Interpreter.
+
+Now, to the code. The first lines are to import the libraries:
+{% highlight python %}
+import pandas as pd
+import matplotlib.pyplot as plt
+{% endhighlight %}
+
+The page on [Temporary Foreign Worker Program 2008-2015][TFWP-2008-2015] has
+several publicly accessible datasets.
+
+As this page is often updated, you may find datasets with more recent data than
+2015.
+
+The first dataset (CSV file) selected is on [Number of temporary foreign worker
+(TFW) positions on positive Labour Market Impact Assessments (LMIAs), by
+province/territory][LMIA-positive-2008-2015]
+
+The code uses pandas [`read_csv`][read-csv] function to read the file.
+
+{% highlight python %}
+def read_open_data_approved_LMIAs():
+    url = "http://www.edsc-esdc.gc.ca/ouvert-open/bca-seb/ae-ei/2008_2015_Table_1_e.csv"
+    approved_LMIA = pd.read_csv(url, engine='python')
+    return approved_LMIA
+
+def show_original_data():
+    approved_LMIA = read_open_data_approved_LMIAs()
+    print(approved_LMIA)
+
+show_original_data()
+{% endhighlight %}
+
+When you look at the dataset, there is a header and a blank line and some
+explanations in the footer. Here's an extract:
+
+{% highlight python %}
+Number of temporary foreign worker (TFW) positions on positive Labour Market
+Impact Assessments (LMIAs), by province/territory  \
+0                                                 NaN                                                                               
+1                                  Province/Territory                                                                               
+2                           Newfoundland and Labrador                                                                               
+3                                Prince Edward Island                                                                               
+4                                         Nova Scotia                                                                               
+5                                       New Brunswick                                                                               
+6                                              Quebec                                                                               
+7                                             Ontario                                                                               
+8                                            Manitoba                                                                               
+9                                        Saskatchewan                                                                               
+10                                            Alberta                                                                               
+11                                   British Columbia                                                                               
+12                                              Yukon                                                                               
+13                              Northwest Territories                                                                               
+14                                            Nunavut                                                                               
+15                                             Canada                                                                               
+16                                             Notes:                                                                               
+17  1. Employers may only submit one LMIA applicat...                                                                               
+18  2. The data provided in this report tracks tem...                                                                               
+19  3. The numbers appearing in this release may d...                                                                               
+
+  Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6  \
+0         NaN        NaN        NaN        NaN        NaN        NaN   
+1        2008       2009       2010       2011       2012       2013   
+2       1,386      1,464      1,119      1,537      2,957      3,327   
+3         583        772        981        848      1,121        876   
+4       2,714      3,623      3,493      3,960      3,238      3,049   
+5       1,781      1,527      1,784      2,500      2,322      1,656   
+6      13,424     16,213     14,091     14,575     15,347     17,509   
+7      64,210     48,779     49,711     48,053     50,013     43,247   
+8       4,024      2,815      2,151      2,414      4,420      3,135   
+9       3,710      3,450      2,649      4,189      9,733      8,518   
+10     74,462     32,508     43,967     51,018     82,039     56,637   
+11     40,339     22,576     21,620     22,898     27,934     24,588   
+12        343        117        137        160        251        219   
+13        385        122        180        187        266        235   
+14         88        126        129         82         89         39   
+15    207,449    134,092    142,012    152,421    199,730    163,035   
+16        NaN        NaN        NaN        NaN        NaN        NaN   
+17        NaN        NaN        NaN        NaN        NaN        NaN   
+18        NaN        NaN        NaN        NaN        NaN        NaN   
+19        NaN        NaN        NaN        NaN        NaN        NaN    
+{% endhighlight %}
+
+More attributes are added to the `read_csv` function to skip the two first rows,
+4 lines in the footer and change the thousands separator to comma.
+
+{% highlight python %}
+def read_open_data_approved_LMIAs():
+    url = "http://www.edsc-esdc.gc.ca/ouvert-open/bca-seb/ae-ei/2008_2015_Table_1_e.csv"
+    approved_LMIA = pd.read_csv(url, skiprows = 2, skipfooter = 4,
+                                thousands=',', engine = 'python')
+    return approved_LMIA
+
+def show_useful_data():
+    approved_LMIA = read_open_data_approved_LMIAs()
+    print(approved_LMIA)
+
+show_useful_data()
+{% endhighlight %}
+
+Here's an extract of the dataset:
+
+{% highlight python %}
+Province/Territory    2008    2009    2010    2011    2012    2013  \
+0   Newfoundland and Labrador    1386    1464    1119    1537    2957    3327   
+1        Prince Edward Island     583     772     981     848    1121     876   
+2                 Nova Scotia    2714    3623    3493    3960    3238    3049   
+3               New Brunswick    1781    1527    1784    2500    2322    1656   
+4                      Quebec   13424   16213   14091   14575   15347   17509   
+5                     Ontario   64210   48779   49711   48053   50013   43247   
+6                    Manitoba    4024    2815    2151    2414    4420    3135   
+7                Saskatchewan    3710    3450    2649    4189    9733    8518   
+8                     Alberta   74462   32508   43967   51018   82039   56637   
+9            British Columbia   40339   22576   21620   22898   27934   24588   
+10                      Yukon     343     117     137     160     251     219   
+11      Northwest Territories     385     122     180     187     266     235   
+12                    Nunavut      88     126     129      82      89      39   
+13                     Canada  207449  134092  142012  152421  199730  163035   
+{% endhighlight %}
+
+
+[intro-data-analysis-python]: https://www.coursera.org/learn/python-data-analysis/home/welcome
+[jupyter-notebook]: http://jupyter.org/
+[pycharm]: https://www.jetbrains.com/pycharm/
+[LMIA-positive-2008-2015]: http://www.edsc-esdc.gc.ca/ouvert-open/bca-seb/ae-ei/2008_2015_Table_1_e.csv
+[TFWP-2008-2015]: http://open.canada.ca/data/en/dataset/c65d2014-ef25-4781-b9b2-e13a7293b72d
+[read-csv]: http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
