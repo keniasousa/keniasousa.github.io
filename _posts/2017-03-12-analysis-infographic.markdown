@@ -49,7 +49,7 @@ public.
 The components that I've found misleading in the visual are organised by the
 mechanisms presented by Alberto Cairo's work:
 
-- Hiding relevant data to highlight what benefits us
+## Hiding relevant data to highlight what benefits us
 
 The visual does not show the data on World population consumption rate, which is
 used in the calculations of how many years are left for the resources in the
@@ -59,15 +59,15 @@ US consumption. If the visual also showed a bar graph of the World population
 consumption per capita, similar to the one on the left, the decoder could better
 compare these consumptions.
 
-- Displaying too much data to obscure reality
+## Displaying too much data to obscure reality
 
 There are five data visuals presented:
 
-1) bar graph on the left with US annual consumption;
-2) small table on the bottom next to the bar graph;
-3) circle graph in the middle that has the key information of the infographics;
-4) proportion of consumption met by recycled materials;
-5) population on April 2007 on the bottom right.
+1. bar graph on the left with US annual consumption;
+2. small table on the bottom next to the bar graph;
+3. circle graph in the middle that has the key information of the infographics;
+4. proportion of consumption met by recycled materials;
+5. population on April 2007 on the bottom right.
 
 Showing these five data visuals in one infographics is misleading because it can
 confuse the decoder with unclear links between them. For instance, what is the
@@ -78,7 +78,7 @@ and graph 3 in the middle? Is the data from the same source? In the table, the
 element "Hafnium" will be exhausted in around 10 years, but there is no figure
 available in the chart in the middle.
 
-- Using graphic forms in inappropriate ways (distorting the data)
+## Using graphic forms in inappropriate ways (distorting the data)
 
 The bar graph on the left with US annual consumption uses a different scale, which
 multiplies units by 10. It can be understood that this scale was used because
