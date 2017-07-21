@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Analysis of an Infographic"
+title:  "Analysis of an Infographic according to Alberto Cairo's mechanisms"
 date:   2017-03-12 22:31:55 +0100
 categories: python
 ---
 
-
 [Alberto Cairo's work][Graphics_Lies_Misleading_Visuals] entitled "Reflections
-on the Challenges and Pitfalls of Evidence-Driven Visual Communication" presents
-three ways that graphics can mislead the reader, which can be used as mechanisms
-to analyse and detect issues in our own visual graphics:
+on the Challenges and Pitfalls of Evidence-Driven Visual Communication" presents three ways that graphics can mislead the reader, which can be used as mechanisms to analyse and detect issues in our own visual graphics:
 
 - Hiding relevant data to highlight what benefits us: "cherry-picked"
 statistics, e.g. show the average to hide that sales were negative in a certain
