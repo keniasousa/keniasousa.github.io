@@ -75,7 +75,7 @@ and graph 3 in the middle? Is the data from the same source? In the table, the
 element "Hafnium" will be exhausted in around 10 years, but there is no figure
 available in the chart in the middle.
 
-## Using graphic forms in inappropriate ways (distorting the data)
+## Using graphic forms in inappropriate ways
 
 The bar graph on the left with US annual consumption uses a different scale, which
 multiplies units by 10. It can be understood that this scale was used because
