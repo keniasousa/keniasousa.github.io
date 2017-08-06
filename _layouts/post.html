@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="intro-header" style="background-image: url('/assets/img/post-bg.jpg')">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="site-heading">
+            <h2>{{ page.title | escape }}</h2>
+            <hr class="small">
+            <span class="subheading">
+              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                {{ page.date | date: date_format }}
+              </time>
+              {% if page.author %}
+                <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+              {% endif %}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}" title="{{page.previous.title}}">&laquo; Previous</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}" title="{{page.next.title}}">Next &raquo;</a>
+    {% endif %}
+  </div>
+</article>
