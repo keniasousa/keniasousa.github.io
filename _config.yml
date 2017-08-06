@@ -24,9 +24,11 @@ github_username:  keniasousa
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+port: 4001

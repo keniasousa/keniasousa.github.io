@@ -30,7 +30,9 @@ long some natural resources would last if the world consumption continues at
 today's rate (from April 2007) compared to how long they would last if
 the world consumed at half the US consumption rate (from April 2007).
 
-[![infographics](/images/posts/26051202.jpg)](https://www.newscientist.com/data/images/archive/2605/26051202.jpg)
+<a href="https://www.newscientist.com/data/images/archive/2605/26051202.jpg">
+  <img src="/images/posts/26051202.jpg" class="img-responsive" alt="Infographics">
+</a>
 
 The components that I've found misleading in the visual are organised by the
 mechanisms presented by Alberto Cairo's work:

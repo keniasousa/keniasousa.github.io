@@ -154,7 +154,7 @@ This visual addresses the research question by showing the percentage of approve
 Labour Market Impact Assessment (LMIA) out of the requested by province and for
 the country considering the years from 2008 until 2015.
 
-![percentage-lmia-canada](/images/posts/figure_canada.png)
+<img src="/images/posts/figure_canada.jpg" class="percentage-lmia-canada" alt="Percentage LMIA Canada">
 
 The datasets
 were selected from the Open Data Initiative website of the Government of Canada. For the
