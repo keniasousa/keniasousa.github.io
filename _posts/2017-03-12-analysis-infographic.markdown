@@ -22,8 +22,6 @@ I’m using these guidelines to analyse and detect issues in my own visual graph
 With examples, the author shows that these mistakes do mislead audiences and
 creators of data visuals should aim to eliminate or, at least, minimize them.
 
-
-
 Inspired by this work, I selected an infographic, published at the [New Scientist][newscientist]
 magazine No. 2605 of May 2007, to analyse it according to Cairo's mechanisms.
 This visual infographic describes the impact of US and

@@ -1,17 +1,31 @@
 ---
 layout: post
-title:  "Read CSV file in Python"
+title:  "Analysing Open Data from the Canadian Government with Python"
 date:   2017-05-10 22:31:55 +0100
 categories: python
 ---
-I've learned a lot on data analysis from the [Coursera Course on Introduction to
-Data Science in Python][intro-data-analysis-python]. We are going to start by
-reading a CSV file online and exploring the data.
+I am a business analyst who wants to do a better job on process monitoring and
+improvement. This is why I became interested in data analysis and started doing
+some courses on data science with R [Coursera Courses on Data Science][data-science-R]
+and Python [Coursera Course on Applied Data Science with Python][intro-data-analysis-python].
 
-During the course, most of the data analysis was done using the
-[Jupyter Notebook][jupyter-notebook] embedded into the Coursera courses. On my
-laptop, I set up the environment with the Python IDE [PyCharm][pycharm]
-following these steps:
+To test what I have learned with a new example, I have defined the following
+research question: What is the percentage of approved Labour Market Impact
+Assessments out of requested work positions by province and for the country
+from 2008-2015?
+
+The page on [Temporary Foreign Worker Program 2008-2015][TFWP-2008-2015] has
+several publicly accessible datasets. My analysis focuses on the years 2008-2015,
+but as this page is often updated, you may find datasets with more recent data
+than 2015. Looking trough them, I selected two related
+datasets, stored in CSV file. Both datasets are on the number of temporary foreign
+worker (TFW) positions by province/territory. The first dataset has [positive
+Labour Market Impact Assessments (LMIAs)][positive-LMIA] and the second one
+has [requested Labour Market Impact Assessments (LMIAs)][requested-LMIA].
+
+Before looking into the data, you can access the entire source code and run it
+either using the [Jupyter Notebook][jupyter-notebook] or set up the environment
+with the Python IDE [PyCharm][pycharm] following these steps:
 - Go to the folder where the file is located: `cd data-science`
 - Create a virtual environment where I installed the libraries needed for this
   specific project: `python3 -m venv venv`
@@ -20,23 +34,19 @@ following these steps:
 - In PythonCharm, use this virtual environment by editing the Run/Debug
   configurations and choose the virtual environment as Python Interpreter.
 
-Now, to the code. The first lines are to import the libraries:
+###Explore the data
+
+When starting the analysis, the first step is to explore the data. For that, I
+read the CSV files using the [`read_csv`][read-csv] function  from the pandas
+library.
+
+The first lines are to import the libraries:
 {% highlight python %}
 import pandas as pd
 import matplotlib.pyplot as plt
 {% endhighlight %}
 
-The page on [Temporary Foreign Worker Program 2008-2015][TFWP-2008-2015] has
-several publicly accessible datasets.
-
-As this page is often updated, you may find datasets with more recent data than
-2015.
-
-The first dataset (CSV file) selected is on [Number of temporary foreign worker
-(TFW) positions on positive Labour Market Impact Assessments (LMIAs), by
-province/territory][LMIA-positive-2008-2015]
-
-The code uses pandas [`read_csv`][read-csv] function to read the file.
+Then, read the CSV file from a url:
 
 {% highlight python %}
 def read_open_data_approved_LMIAs():
@@ -138,10 +148,79 @@ Province/Territory               2008    2009    2010    2011    2012    2013  \
 13                     Canada  207449  134092  142012  152421  199730  163035   
 {% endhighlight %}
 
+### The visual graphic to address the research question
+
+This visual addresses the research question by showing the percentage of approved
+Labour Market Impact Assessment (LMIA) out of the requested by province and for
+the country considering the years from 2008 until 2015.
+
+![percentage-lmia-canada](/images/posts/figure_canada.png)
+
+The datasets
+were selected from the Open Data Initiative website of the Government of Canada. For the
+understanding of the analysis, as stated on the website of the Government of Canada,
+it is important to know that not all positions on an approved LMIA result in a
+work permit or Citizenship, which are subject to other statistics.
+
+This analysis takes the annual LMIA statistics per province and for the country
+from 2008 until 2015. First, the two selected datasets are merged, one for requested
+LMIA and the other for approved ones. The annual values are summed up, calculating
+the total of approved and total of discontinued ones. The discontinued are calculated
+from the difference of total of requested minus the total of approved. Discontinued can
+represent different outcomes, such as rejection, withdrawals, etc.  The percentages are
+then calculated to display the approvals in the visual in descending order, starting
+with provinces having higher percentage of approvals of LMIA, the aim of the research
+question.
+
+Compared to the country percentage, there are seven provinces with the same or
+higher percentage of approvals. The other provinces with lower percentage of approvals
+are not so much lower than the country average.
+
+
+### Analysis of the visual graphic
+
+I use Alberto Cairo's principles to analyse my own visual graphic:
+
+1)Truthful
+For each dataset, requested and approved, the values for each year are summed up
+to represent the total per province. The requested represents the total, while the approved
+a percentage from this total of requested. The remaining percentage represents the ones not approved,
+which can vary in result (e.g. withdrawals, rejection), thus, they represent requests that were discontinued.
+Once the total of approved and discontinued requests are calculated per province and for the country,
+the percentage is calculated.
+
+The choice of displaying percentages was done since the difference
+of quantities between the provinces is substantial. The provinces with lower quantities
+were not visible, only the provinces with higher quantities. Therefore, the
+percentages were calculated and displayed in the graph to represent the approvals per province
+and for the country.
+
+2) Functionality
+Considering the focus of the research question is on the approval of LMIAs, the visual
+displays, in each bar, labels with percentage of approvals per province and for the country.
+To organise the percentage of approval by province, the stacked bar showing both approved and discarded
+seems to be the most appropriate.
+
+3) Beauty
+With the purpose of making it captivating and easy to understand, the
+visual is clean: the fonts with readable size, the colors of the bars were selected
+to be aesthetically pleasing,the ticks on both
+the x and y axes were removed, the labels of both axes were not introduced because
+the title already mentions them, a grid with transparency was put in the background to
+guide, and the legend was placed on a blank space to make best use of the image space.
+
+4) Insightful
+The order of bars from province with the highest approval to the lowest aims to make
+it more memorable and show the results quickly and clearly. For people interested in
+applying for LMIAs, it should give an ah-ha moment to help quickly identify the provinces
+with the highest percentage of total of approvals from 2008-2015.
 
 [intro-data-analysis-python]: https://www.coursera.org/learn/python-data-analysis/home/welcome
+[data-science-R]: https://www.coursera.org/specializations/jhu-data-science
 [jupyter-notebook]: http://jupyter.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
-[LMIA-positive-2008-2015]: http://www.edsc-esdc.gc.ca/ouvert-open/bca-seb/ae-ei/2008_2015_Table_1_e.csv
 [TFWP-2008-2015]: http://open.canada.ca/data/en/dataset/c65d2014-ef25-4781-b9b2-e13a7293b72d
 [read-csv]: http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
+[positive-LMIA]: http://www.edsc-esdc.gc.ca/ouvert-open/bca-seb/ae-ei/2008_2015_Table_1_e.csv
+[requested-LMIA]: http://www.edsc-esdc.gc.ca/ouvert-open/bca-seb/ae-ei/2008_2015_Table_11_e.csv
+[analysis-infographic]: https://keniasousa.github.io/python/2017/03/12/analysis-infographic.html
