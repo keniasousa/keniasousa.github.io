@@ -14,6 +14,8 @@ research question: What is the percentage of approved Labour Market Impact
 Assessments out of requested work positions by province and for the country
 from 2008-2015?
 
+<!-- more -->
+
 The page on [Temporary Foreign Worker Program 2008-2015][TFWP-2008-2015] has
 several publicly accessible datasets. My analysis focuses on the years 2008-2015,
 but as this page is often updated, you may find datasets with more recent data
