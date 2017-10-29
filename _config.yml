@@ -25,6 +25,7 @@ excerpt_separator: "<!-- more -->"
 
 twitter_username: keniasousa
 github_username:  keniasousa
+google_analytics: UA-108897579-1
 
 # Build settings
 markdown: kramdown
