@@ -20,7 +20,7 @@
           </div>
 
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav navbar-right">
               {% for path in page_paths %}
                 {% assign my_page = site.pages | where: "path", path | first %}
                 {% if my_page.title %}
@@ -40,7 +40,7 @@
             <div class="site-heading">
               <h1>{{ site.title | escape }}</h1>
               <hr class="small">
-              <span class="subheading">Business, Process & Data Analysis</span>
+              <span class="subheading">Business, Process & Data Recipes</span>
             </div>
           </div>
         </div>
