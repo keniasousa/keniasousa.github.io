@@ -36,7 +36,7 @@ with the Python IDE [PyCharm][pycharm] following these steps:
 - In PythonCharm, use this virtual environment by editing the Run/Debug
   configurations and choose the virtual environment as Python Interpreter.
 
-###Explore the data
+### Explore the data 
 
 When starting the analysis, the first step is to explore the data. For that, I
 read the CSV files using the [`read_csv`][read-csv] function  from the pandas
