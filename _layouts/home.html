@@ -1,21 +1,58 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<header class="intro-header" style="background-image: url('/assets/img/home-bg.jpg')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>Kênia Sousa</h1>
-                    <hr class="small">
-                    <span class="subheading">Business | Process | Data Analysis</span>
-                </div>
-            </div>
+  {% include head.html %}
+
+  <body>
+    <header role="banner">
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          {% assign default_paths = site.pages | map: "path" %}
+          {% assign page_paths = site.header_pages | default: default_paths %}
+
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+              {% for path in page_paths %}
+                {% assign my_page = site.pages | where: "path", path | first %}
+                {% if my_page.title %}
+                  <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
         </div>
-    </div>
-</header>
+      </nav>
+    </header>
 
-<div class="container">
-  {{ content }}
-</div>
+    <main class="page-content" aria-label="Content">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="site-heading">
+              <h1>{{ site.title | escape }}</h1>
+              <hr class="small">
+              <span class="subheading">Business, Process & Data Analysis</span>
+            </div>
+          </div>
+        </div>
+
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+  </body>
+</html>
