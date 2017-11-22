@@ -1,0 +1,17 @@
+---
+layout: post
+title: "I don’t like boxes, do you?!"
+date: 2015-04-23 16:12:30 +0200
+categories: business business process
+---
+
+The CIO stands up suddenly and looks to the horizon through the glass walls, leaving behind his business analyst.<br/>
+– I don’t like boxes! Do you?!<br/>
+The consultants feel threatened by that statement after so much work gathering information and drawing many business process diagrams.<br/>
+– What? Boxes? Ok, looking at a business process that shows the flow of activities among participants, you only see boxes and arrows. That’s fine!<br/>
+The CIO insists on his statement, but this time challenging the analyst.<br/>
+– I mean, isn’t it too simplistic? Are they useful at all to us?<br/>
+And the analyst replies with an irony sauce.<br/>
+– I see, you prefer to have your procedures textually. No one needs to learn what that diamond shape in the middle of all those boxes mean. I get it. I just have to write “If this happens, then do that. Otherwise, do something else”. Everyone will understand and they will follow the procedure properly. Good! But how did you get to the procedure? How do you know if it is efficient? I’m not saying that processes solve it all, there is monitoring of activities and everything else that comes with it. But what if using “boxes” could help you realize gaps, bottlenecks, links,…? You’ve just added a single line of text in your procedure: “participant x validates doc y”. It’s saved, published and now everyone can follow the updated procedure. But, wait, by adding this single activity in the process, you can visually see the need for additional communication with external participants. This extra communication represents a bottleneck in a process already filled with time constraints….For one, that’s something you did not see by adding a single line in a long document. Think about it! Let’s at least use the “boxes” for making sound decisions on changes. You could throw them away later, if you’d like. But in your place, I would actually recycle them 😉
+
+The analyst just saved months of hard work on clarifying business to everyone.

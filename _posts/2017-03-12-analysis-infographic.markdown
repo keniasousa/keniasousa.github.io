@@ -5,7 +5,7 @@ date:   2017-03-12 22:31:55 +0100
 categories: python
 ---
 
-[Alberto Cairo's work][Graphics_Lies_Misleading_Visuals] entitled "Reflections
+[Alberto Cairo's work][Graphics_Lies_Misleading_Visuals]{:target="_blank"} entitled "Reflections
 on the Challenges and Pitfalls of Evidence-Driven Visual Communication" presents
 three ways graphics can mislead the reader:
 
@@ -22,7 +22,7 @@ I’m using these guidelines to analyse and detect issues in my own visual graph
 With examples, the author shows that these mistakes do mislead audiences and
 creators of data visuals should aim to eliminate or, at least, minimize them.
 
-Inspired by this work, I selected an infographic, published at the [New Scientist][newscientist]
+Inspired by this work, I selected an infographic, published at the [New Scientist][newscientist]{:target="_blank"}
 magazine No. 2605 of May 2007, to analyse it according to Cairo's mechanisms.
 This visual infographic describes the impact of US and
 world consumption on the availability of natural resources. It aims to show how
@@ -80,7 +80,7 @@ consistent since there is no labelling.
 
 Looking further into the effects of visual embellishments on understanding of
 charts, a very interesting article from CHI was recommended to me on
-[Useful Junk][useful_junk]. In this article, the main state of the art is on
+[Useful Junk][useful_junk]{:target="_blank"}. In this article, the main state of the art is on
 Edward Tufte to eliminate embellishments and on Nigel Holmes to encourage them.
 The authors report on their experiment results, which shows that there is no
 difference in interpretation accuracy between embellished and minimalist charts.

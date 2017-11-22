@@ -6,7 +6,7 @@ permalink: /about/
 
 I am Kenia Sousa, mom to two beautiful and creative kids and wife to an amazing
 man. I'm currently a business analyst of one of the biggest education programmes
-of the European Commission, [Erasmus+][erasmus-plus]. I elicit requirements leading
+of the European Commission, [Erasmus+][erasmus-plus]{:target="_blank"}. I elicit requirements leading
 workshops, model business processes using BPMN, specify system impact, create
 prototypes, support creating user manuals, monitor processes and identify and
 apply process improvements.

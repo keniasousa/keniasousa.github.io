@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Participation in the Dagstuhl Seminar"
+date: 2010-04-22 18:40:42 +0200
+categories: business process research community dagstuhl research
+---
+
+Last week, I have attended a <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=10151" onclick="javascript:pageTracker._trackPageview('/outbound/article/www.dagstuhl.de');" target="_blank">Dagstuhl Seminar</a> on the theme of “Enabling Holistic Approaches to Business Process Lifecycle Management”. During the seminar, the group came up with a set of challenges for business process management that included ideas from different domains, such as the human involvement, conceptual modeling, reuse, etc.
+
+The purpose of the Dagstuhl Castle is to promote events on informatics research at an international level where people are invited to present ideas, discuss and interact. Dagstuhl is located in southwest Germany, near the French and Luxembourg borders, in a very green and peaceful place. There, professionals and researchers definitively get off-line from their problems and go deep inside the creative work.
+
+<figure>
+  <img src="/images/posts/DSC03273.jpg" alt="Dagstuhl">
+  <figcaption class="wp-caption-text">Dagstuhl Castle</figcaption>
+</figure>
+
+In this seminar, there were participants from different domains, such as software engineering, database, business process management, enterprise modeling, information systems, human-computer interaction, etc. Such a diverse group brought interesting and different points of view to the table.
+
+What really called my attention was the interest on end-user involvement on business process management. Even though I had been working on this topic for the past 4 years, I was not expecting such a diverse group to find interest in this topic. Much to my amusement, I participated in two workgroups with very interesting researchers who were motivated to discuss about the upcoming trends concerning end-users involved in the business process management lifecycle. I believe, and hope, that this interest on end-user involvement for business process management just keeps on growing.

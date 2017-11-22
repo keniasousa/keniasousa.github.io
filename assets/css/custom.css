@@ -13,6 +13,16 @@ body {
 img {
   max-width: 100%;
   vertical-align: middle; }
+  
+  figcaption {
+  padding: 5px;
+  font-size: 1em;
+  font-weight: 700;
+  border: none;
+  background: transparent;
+  word-wrap:normal;
+  text-align: center;
+}
 
 blockquote {
   color: #828282;

@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Changing R library path"
+date: 2016-01-21 12:11:42 +0200
+categories: data analysis it r r studio
+---
+
+I’ve been using R to do data analysis for process improvement for some time now. I’ve learned so much in the past year that I want to write many posts in a specific order, but they end up being kept in my mind. That’s no good. This year, I’ve decided to start posting every little new thing I learn in no particular order. Even if it’s simple, if I’ve just learned it, I’ll share it.
+
+So, here is my most recent problem:
+
+I use R Studio in a corporate machine in which I’m not the admin. There, the packages were installed in a temporary folder that is cleaned from time to time. I didn’t pay attention to that until the packages were deleted and I was blocked on re-installing them. I had to repair the application from time to time. And today,  I got a new warning stating that the library was not writable.
+
+```
+install.packages("lubridate")
+Installing package into 'C:/Users/Public/R/libraries_i386'
+(as 'lib' is unspecified)
+Warning in install.packages :
+  'lib = "C:/Users/Public/R/libraries_i386"' is not writable
+  ```
+
+I thought the best would be just to install the packages in a local folder that I have control over. So, I’ve added a new library to my library path.
+
+```
+> .libPaths( c( .libPaths(), "H:/My Documents/data analysis/R") )  
+> .libPaths()
+[1] "C:/Users/Public/R/libraries_i386"
+"Q:/RSTUD301.001/R-3.2.2/library" "H:/My Documents/data analysis/R"
+```
+
+Alternatively, if you just add a new path:
+
+```
+.libPaths("H:/My Documents/data analysis/R")
+.libPaths()
+```
+
+The .libPaths function adds the new one as the first path to be used:
+
+```
+[1] "H:/My Documents/data analysis/R" "Q:/RSTUD301.001/R-3.3.1/library"
+```
+
+Now, every time I install a package, I select my local folder and the packages will not be deleted.
+
+Source in <a href="http://stackoverflow.com/questions/15170399/changing-r-default-library-path-using-libpaths-in-rprofile-site-fails-to-work" onclick="javascript:pageTracker._trackPageview('/outbound/article/stackoverflow.com');" target="_blank">StackOverflow</a>.

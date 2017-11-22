@@ -6,8 +6,8 @@ categories: python
 ---
 I am a business analyst who wants to do a better job on process monitoring and
 improvement. This is why I became interested in data analysis and started doing
-some courses on data science with R [Coursera Courses on Data Science][data-science-R]
-and Python [Coursera Course on Applied Data Science with Python][intro-data-analysis-python].
+some courses on data science with R [Coursera Courses on Data Science][data-science-R]{:target="_blank"}
+and Python [Coursera Course on Applied Data Science with Python][intro-data-analysis-python]{:target="_blank"}.
 
 To test what I have learned with a new example, I have defined the following
 research question: What is the percentage of approved Labour Market Impact
@@ -16,18 +16,18 @@ from 2008-2015?
 
 <!-- more -->
 
-The page on [Temporary Foreign Worker Program 2008-2015][TFWP-2008-2015] has
+The page on [Temporary Foreign Worker Program 2008-2015][TFWP-2008-2015]{:target="_blank"} has
 several publicly accessible datasets. My analysis focuses on the years 2008-2015,
 but as this page is often updated, you may find datasets with more recent data
 than 2015. Looking trough them, I selected two related
 datasets, stored in CSV file. Both datasets are on the number of temporary foreign
 worker (TFW) positions by province/territory. The first dataset has [positive
-Labour Market Impact Assessments (LMIAs)][positive-LMIA] and the second one
-has [requested Labour Market Impact Assessments (LMIAs)][requested-LMIA].
+Labour Market Impact Assessments (LMIAs)][positive-LMIA]{:target="_blank"} and the second one
+has [requested Labour Market Impact Assessments (LMIAs)][requested-LMIA]{:target="_blank"}.
 
 Before looking into the data, you can access the entire source code and run it
-either using the [Jupyter Notebook][jupyter-notebook] or set up the environment
-with the Python IDE [PyCharm][pycharm] following these steps:
+either using the [Jupyter Notebook][jupyter-notebook]{:target="_blank"} or set up the environment
+with the Python IDE [PyCharm][pycharm]{:target="_blank"} following these steps:
 - Go to the folder where the file is located: `cd data-science`
 - Create a virtual environment where I installed the libraries needed for this
   specific project: `python3 -m venv venv`
@@ -36,7 +36,7 @@ with the Python IDE [PyCharm][pycharm] following these steps:
 - In PythonCharm, use this virtual environment by editing the Run/Debug
   configurations and choose the virtual environment as Python Interpreter.
 
-### Explore the data 
+### Explore the data
 
 When starting the analysis, the first step is to explore the data. For that, I
 read the CSV files using the [`read_csv`][read-csv] function  from the pandas

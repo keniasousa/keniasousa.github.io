@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Need a solution to integrate a BPM and IT"
+date: 2015-02-09 13:32:17 +0200
+categories: business business process it
+---
+
+I’m currently discussing with IT analysts about our needs for a tool that integrates both BPM and IT needs, modelling business processes and system specifications. I’m now sharing it to get other perspectives.
+
+Here are some of the needs I believe we currently have:
+
+<ul>
+<li>First, we need to share a common repository of models between BPM team and IT teams. All the business processes we do in collaboration need to be done using the same tool and stored in the same repository to enable reusability, integration and avoid double work, inconsistencies, etc. Which leads me to think of the second need.</li>
+</ul>
+<ul>
+<li>  Considering the current situation where there are several models already done: We need to continue using the same tool (Aris Business Architect) or find an import/export solution to another tool, if this new tool fulfills all the needs we have today and is economically more interesting. This way, we avoid re-writing unnecessarily hundreds of existing models (for processes and systems as well).</li>
+</ul>
+<ul>
+<li>  On the perspective of business process management, we are modelling a lot of processes, but we also apply the entire BPM methodology, there is a lot of work to be done concerning execution and monitoring of processes. Therefore, the solution to be adopted needs to offer or interoperate with a BPM platform (e.g. ARIS MashZone or open source solutions, such as Activiti, BonitaSoft).</li>
+</ul>
+<ul>
+<li>  Of course, as we have repeatedly discussed together, bridging the gap between business and IT, we need a solution to link business processes and IT requirements that eases requirements management (creating requirements linked to processes, following them up, etc).</li>
+</ul>
+<ul>
+<li>  In summary, we need a solution that is cost-effective, concerning costs of licenses and resources needed, to import/export efficiently without much effort on re-writing. Managers expect all of us as analysts to be working more on harmonising processes and deeper analysis than re-writing models in another tool.</li>
+</ul>
+This is a starting point for further discussion. What are your views on this? Which solutions are you adopting?
