@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Voluntary Flea Market"
+date: 2017-10-01 23:55:21 +0200
+categories: voluntary
+---
+
+My husband and I took some French lessons with our neighbor, who is a retired school teacher.
+In one of our classes, she reviewed our CVs and found out we are both working in IT.
+
+One day, she came over to our home asking if my husband and I could help her with
+the registrations to the next neighborhood flea market she organizes with another friend.
+
+She explained that applicants send an email requesting one or more spots in the flea
+market. She needs to treat these emails one by one. If any contact information is
+missing, she has to request it to the applicant. Once she gets the complete set of
+information, she fills in a spreadsheet until the list reaches the 250 spots. After that,
+any new request is put on a waiting list. For each request added in the spreadsheet,
+she writes an email to explain the status to the applicant: confirmed or on waiting list.
+
+######## correct task text: send message about market spot; check completeness of application; inform application status; add applicant in confirmed list; receive application status
+<a href="/images/posts/market-registration-as-is-issues.png" target="_blank"><img src="/images/posts/market-registration-as-is-issues.png" alt="Issues in process"></a>
+
+This process is quite time consuming for them and knowing we are IT geeks, she
+hoped we could help them automate it.
+
+Our immediate idea was to eliminate these three tasks that are a big workload for
+them and a source of mistakes. And a simple online form would be the perfect solution
+that needed to be ready in a week.
+
+Since IT is a different world for them, I first showed a simple form I use to request my
+contact lenses online. With this, they had an idea of what applicants could use. We then
+quickly created a Google form to discuss the fields.
+
+While I discussed with them the fields, my husband developed
+a first version of the UI in Django. One great advantage of using Django is that an
+initial product can be quickly delivered and it comes with the administration ready.
+
+As soon as they saw the UI, they were very happy but sadly announced that
+they had been advertising, for the past six months, the use of email as a way to
+apply for the flea market. So, we had to find a solution to let everyone know that we would have a new system for
+registration instead of sending emails. We thought of Facebook pages or the neighborhood
+newsletter, but the schedule was too tight to be feasible in a week. So, we
+decided to send an automatic message to each request received. That seemed to solve the
+issue because the registration period had not started yet. And for your surprise, most people
+do follow this start date, even though it is via e-mail. For few people who had sent a request before
+the application start date, we would need to simply write a message. For the others who were
+waiting for the deadline, the message would go as an automatic reply.
+
+After they agreed on the message, my husband set up the automatic reply on their
+Google account.
+
+I explained to them the new process by actually doing it:
+
+1. I sent an email requesting a place in the flea market from my laptop.
+2. I showed them the automatic reply on my Inbox to show what everyone would see.
+3. I clicked on the application link in the message.
+4. I registered in the application. Happy to be the first to get my spot in the market this year! :)
+5. We saved the link to the application administration in their bookmarks.
+6. I asked them to go in the administration to see my registration.
+7. One of them clicked on the button "Confirm receipt of request".
+8. I showed them the automatic confirmation in my Inbox.
+
+<img src="/images/posts/ba-brocante.jpg" alt="Business analysis">
+
+"Magic!", they both said with big smiles on their faces. They were thrilled with
+how easy it was compared to the previous years of manual work.
+
+This is what the new process would look like for them now:
+
+<img src="/images/posts/market-registration-to-be-1.png" alt="New process">
+
+Showing the process live, helped them realize that they had forgotten something.
+From their experience from previous years, they still received
+phone calls for registration because some people do not have an email account.
+Thus, they would need to be able to register some people on their behalf. To solve this scenario,
+we quickly set the email field as optional from the administration.
+
+When the first day of application came and the automatic emails started rolling,
+we got around 10 request in 30 minutes and around 50 requests on the first day.
+As the requests kept coming, we realized that people are very creative trying to
+get as many spots as possible. The organizers would face issues later on if they
+gave more spots for a person instead of giving the opportunities for more families
+to participate. They requested us to implement a business rule that allows only one registration
+per email address. If someone wanted more than one spot, they would have to get
+together with their family members and friends.
+
+The next step in the process was the confirmation of the registration. It went on
+pretty smoothly because they only needed to click in a button to confirm each registration.
+As they went through the list, they requested the possibility to delete duplicate
+applications which were done before the new business rule was implemented.
+
+The process now had a few changes after they actually started using the system:
+
+<img src="/images/posts/market-registration-to-be-4.png" alt="New process">
+
+In total, there were 250 registrations for the flea market and it was a great
+success. Seeing all these people negotiating and socializing is a great experience.
+It was my first participation and it will definitely be one of many.
+
+<img src="/images/posts/brocante.JPG" alt="Flowers">
+
+You can imagine how happy they were with the new process using an application?
+I guess you can. But it is hard to describe how I have felt: fulfilled could start to
+describe it.
+
+The best of this voluntary work was:
+- applying my knowledge in a different domain.
+- learning that even in volunteering you have deadlines.
+- experiencing agile development from home.
+- applying business process analysis in a tiny project.
+- having your work recognized and thanked for.
+
+<img src="/images/posts/flowers-brocante.JPG" alt="Flowers">
+
+I am the one to say: Thank you for finding us!
