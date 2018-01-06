@@ -1,0 +1,27 @@
+### What are the key data flows?
+
+Now with systems in the game, it is time to consider interfaces between them
+that directly impact the process execution.
+So, I came up with a diagram of my own that shows few of the key data flows
+between systems.
+
+<a href="/images/posts/BA-BP-macro-process-information-systems-procurement.png" target="_blank">
+<img src="/images/posts/BA-BP-macro-process-information-systems-procurement.png" alt="Macro Processes"></a>
+
+The goal in adding data flows is to show key interfaces between two pair of systems.
+It's not to show all of the interfaces between them.
+Selecting just key interfaces help identify potential sources of issues in
+communication between systems that could eventually break the process and
+impact the end customer directly.
+Interfaces require special attention to make sure data actually arrives to the
+destination correctly.
+
+Another goal is to show where there aren't interfaces. So, when an activity is
+added that requires communication between two systems that did not interact before,
+more attention is required than with systems that already work together.
+
+For some projects, I noticed that it was useful to highlight which systems
+are developed in house and which are corporate software developed in other departments
+or off-the-shelf solutions.
+When there are different system owners, there have been frequent cases of interface issues,
+thus, it helps to know which owner to contact when needed.
