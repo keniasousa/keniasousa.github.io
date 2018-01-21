@@ -32,7 +32,7 @@ a set of activities a company does to create products or services.
 From [Porter's generic value chain][value-added-chain]{:target="_blank"},
 I created a diagram listing key processes.
 
-<img src="/images/posts/VAC.png" alt="Value-Added-Chain">
+<img src="/images/posts/overview.png" alt="Value-Added-Chain">
 
 This value added chain lists some primary and support processes of a company.
 It doesn't explain too much, but at least it gives context.
@@ -49,15 +49,7 @@ When you look at this diagram, it seems simple but the reality is that not
 everyone has this knowledge. Even though it is basic, it provides a shared and
 common understanding, limits scope and deepens the context for analyses.
 
-### Who is involved?
-
-When you see the process, you see activities, but none of them will be performed
-without the process performers. Knowing the business roles assigned to business
-process help identify which processes to focus on depending on the role you have
-or on the actor you want to help.
-
-<a href="/images/posts/BA-BP-macro-process-information-systems-stakeholders-procurement.png" target="_blank">
-<img src="/images/posts/BA-BP-macro-process-information-systems-stakeholders-procurement.png" alt="Stakeholders"></a>
+<img src="/images/posts/bp-overview.png" alt="Activities">
 
 ### Which systems support the process?
 
@@ -66,23 +58,12 @@ Let's pause going in further details for this process and talk about information
 I identified the supporting systems for each activity. Following [ArchiMate][archimate]{:target="_blank"},
 I link two elements: business process with system software.
 
-<a href="/images/posts/ArchiMate-BP-Sys.png" target="_blank"><img src="/images/posts/ArchiMate-BP-Sys.png" alt="ArchiMate"></a>
-
 To determine an IT portfolio, I create a comprehensive list of the systems the company uses.
 When aiming for business-IT alignment, a key step is to link systems to
 processes at this high level in order to identify the purpose of
 each system.
 
-Some systems span across several processes and it is hard to quickly
-identify its coverage. So, I created a relationship matrix to  
-spot which processes are covered by each system.
-
-<img src="/images/posts/Matrix-BP-Sys.png" alt="Matrix" target="_blank">
-
-With this association, it is possible to detect if two or more systems serve the
-same purpose. If this is the case, it deserves further analysis to identify if they offer similar
-functionalities to avoid redundancy. Such a deep investigation is only possible if you start with this
-basic structure.
+<a href="/images/posts/bp-overview-systems.png" target="_blank"><img src="/images/posts/bp-overview-systems.png" alt="ArchiMate"></a>
 
 ### More details
 
@@ -92,8 +73,21 @@ because what was within each process was not clear for everyone.
 At this stage of adding details to the processes, the procedures were very useful
 to identify the main activities.
 
-<a href="/images/posts/BA-BP-process-information-systems-procurement.png" target="_blank">
-<img src="/images/posts/BA-BP-process-information-systems-procurement.png" alt="SubProcesses"></a>
+Here is an example of adding one more level of activity for one of the sub-processes.
+
+<a href="/images/posts/bp-overview-sub-process.png" target="_blank">
+<img src="/images/posts/bp-overview-sub-process.png" alt="SubProcesses"></a>
+
+One interesting strategy when adding details to your process is to select a view
+depending on the situation. For instance, if you have a meeting to discuss the
+"Planning" process, use this image. If you need to discuss how to deal with contracts,
+you could expand the last three sub-processes. The idea is not to overload people
+with so many information that they would get distracted and overwhelmed. The goal
+is to make it simple, to show details only when they are needed.
+
+Any other detail you may feel compelled to present early on should deserve further
+analysis. What we have to keep in mind at this stage is that any deeper investigation
+is only possible if you start with this basic structure.
 
 ### Lessons learned
 
