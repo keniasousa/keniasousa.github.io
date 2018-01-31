@@ -57,14 +57,12 @@ common understanding, limits scope and deepens the context for analyses.
 
 Let's pause going in further details for this process and talk about information systems.
 
-<a href="/images/posts/ArchiMate-BP-Sys.png" target="_blank"><img src="/images/posts/ArchiMate-BP-Sys.png" alt="ArchiMate"></a>
-
 To determine an IT portfolio, I create a comprehensive list of the systems the company uses.
 When aiming for business-IT alignment, a key step is to link systems to
 processes at this high level in order to identify the purpose of
 each system.
 
-<a href="/images/posts/bp-overview-systems.png" target="_blank"><img src="/images/posts/bp-overview-systems.png" alt="ArchiMate"></a>
+<a href="/images/posts/bp-overview-systems.png" target="_blank"><img src="/images/posts/bp-overview-systems.png" alt="Process and Systems"></a>
 
 ### Who participates?
 
