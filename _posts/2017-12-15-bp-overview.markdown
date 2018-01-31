@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Business Process Overview"
-date: 2017-12-14 23:55:21 +0200
-categories: voluntary
+date: 2018-01-31 23:55:21 +0200
+categories: business process
 ---
 
 When starting to work with a new process,
@@ -35,7 +35,9 @@ I created a diagram listing key processes.
 <img src="/images/posts/overview.png" alt="Value-Added-Chain">
 
 This value added chain lists some primary and support processes of a company.
-It doesn't explain too much, but at least it gives context.
+It doesn't explain too much, but it gives context.
+
+What does it mean to give context? Say you work with preparing calls for tenders, evaluating proposals and managing contracts. For you, that is at the heart of your daily tasks and it is key to the functioning of the enterprise. When you do procurement in the construction industry, once the contract is signed, for a construction project to be successful there are many other considerations, such as the logistics in transporting material from the fabrication to the project site in a timely manner. This is where context helps, it puts one part into perspective considering the entire structure and shows the importance of interrelations for everything to work.
 
 ### Which Activities do they do?
 
@@ -55,8 +57,7 @@ common understanding, limits scope and deepens the context for analyses.
 
 Let's pause going in further details for this process and talk about information systems.
 
-I identified the supporting systems for each activity. Following [ArchiMate][archimate]{:target="_blank"},
-I link two elements: business process with system software.
+<a href="/images/posts/ArchiMate-BP-Sys.png" target="_blank"><img src="/images/posts/ArchiMate-BP-Sys.png" alt="ArchiMate"></a>
 
 To determine an IT portfolio, I create a comprehensive list of the systems the company uses.
 When aiming for business-IT alignment, a key step is to link systems to
@@ -64,6 +65,12 @@ processes at this high level in order to identify the purpose of
 each system.
 
 <a href="/images/posts/bp-overview-systems.png" target="_blank"><img src="/images/posts/bp-overview-systems.png" alt="ArchiMate"></a>
+
+### Who participates?
+
+Interactions between people is key to the success of any process. Acknowledging that there are other people in the process, that my behavior influences them and consequently the result produced is a first step to broaden your point of view.
+
+This is a simple conversation diagram that shows only two participants and the messages they exchange. You can see which flows require communication with people outside the organization, such as asking for tender offers. You also see that the evaluation of offers happen within the organization since only the result is notified to the contractor. To go further, you could create a variation to show how the legal and financial departments and external experts communicate during offer evaluation.
 
 ### More details
 
@@ -112,4 +119,3 @@ you help people create a mental model that helps them get a concrete grasp of th
 reality that, otherwise, was dispersed and unknown.
 
 [value-added-chain]: https://en.wikipedia.org/wiki/Value_chain
-[archimate]: http://www.archimate.nl/en/about_archimate/what_is_archimate.html
