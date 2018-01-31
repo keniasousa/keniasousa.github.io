@@ -2,7 +2,7 @@
 layout: post
 title: "Business Process Overview"
 date: 2017-12-14 23:55:21 +0200
-categories: voluntary
+categories: business process
 ---
 
 When starting to work with a new process,
@@ -35,7 +35,9 @@ I created a diagram listing key processes.
 <img src="/images/posts/VAC.png" alt="Value-Added-Chain">
 
 This value added chain lists some primary and support processes of a company.
-It doesn't explain too much, but at least it gives context.
+It doesn't explain too much, but it gives context.
+
+What does it mean to give context? Say you work with preparing calls for tenders, evaluating proposals and managing contracts. For you, that is at the heart of your daily tasks and it is key to the functioning of the enterprise. When you do procurement in the construction industry, once the contract is signed, for a construction project to be successful there are many other considerations, such as the logistics in transporting material from the fabrication to the project site in a timely manner. This is where context helps, it puts one part into perspective considering the entire structure and shows the importance of interrelations for everything to work.
 
 ### Which Activities do they do?
 
@@ -52,9 +54,6 @@ common understanding, limits scope and deepens the context for analyses.
 ### Which systems support the process?
 
 Let's pause going in further details for this process and talk about information systems.
-
-I identified the supporting systems for each activity. Following [ArchiMate][archimate]{:target="_blank"},
-I link two elements: business process with system software.
 
 <a href="/images/posts/ArchiMate-BP-Sys.png" target="_blank"><img src="/images/posts/ArchiMate-BP-Sys.png" alt="ArchiMate"></a>
 
@@ -117,4 +116,3 @@ company's culture, but I already have a framework to direct my questions towards
 an overall understanding.
 
 [value-added-chain]: https://en.wikipedia.org/wiki/Value_chain
-[archimate]: http://www.archimate.nl/en/about_archimate/what_is_archimate.html
