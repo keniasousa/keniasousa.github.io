@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Business Process Overview"
-date: 2017-12-14 23:55:21 +0200
-categories: voluntary
+date: 2018-01-31 23:55:21 +0200
+categories: business process
 ---
 
 When starting to work with a new process,
@@ -30,12 +30,14 @@ One first common concept coming to mind is the one of Added Value Chains:
 a set of activities a company does to create products or services.
 
 From [Porter's generic value chain][value-added-chain]{:target="_blank"},
-I created a diagram listing key processes.
+I created a diagram listing the key processes.
 
-<img src="/images/posts/VAC.png" alt="Value-Added-Chain">
+<img src="/images/posts/overview.png" alt="Value-Added-Chain">
 
 This value added chain lists some primary and support processes of a company.
-It doesn't explain too much, but at least it gives context.
+It doesn't explain too much, but it gives context.
+
+What does it mean to give context? Say you work with preparing calls for tenders, evaluating proposals and managing contracts. For you, that is at the heart of your daily tasks and it is key to the functioning of the enterprise. When you do procurement in the construction industry, once the contract is signed, for a construction project to be successful there are many other considerations, such as the logistics in transporting material from the fabrication to the construction site in a timely manner. This is where context helps, it puts one part into perspective considering the entire structure and shows the importance of interrelations for everything to work.
 
 ### Which Activities do they do?
 
@@ -49,72 +51,73 @@ When you look at this diagram, it seems simple but the reality is that not
 everyone has this knowledge. Even though it is basic, it provides a shared and
 common understanding, limits scope and deepens the context for analyses.
 
+<img src="/images/posts/bp-overview.png" alt="Activities">
+
 ### Which systems support the process?
 
-Let's pause going in further details for this process and talk about information systems.
-
-I identified the supporting systems for each activity. Following [ArchiMate][archimate]{:target="_blank"},
-I link two elements: business process with system software.
-
-<a href="/images/posts/ArchiMate-BP-Sys.png" target="_blank"><img src="/images/posts/ArchiMate-BP-Sys.png" alt="ArchiMate"></a>
+Let's pause going in further details and talk about information systems.
 
 To determine an IT portfolio, I create a comprehensive list of the systems the company uses.
-When aiming for business-IT alignment, a key step is to link systems to
+A key step is to link systems to
 processes at this high level in order to identify the purpose of
 each system.
 
-Some systems span across several processes and it is hard to quickly
-identify its coverage. So, I created a relationship matrix to  
-spot which processes are covered by each system.
+<a href="/images/posts/bp-overview-systems.png" target="_blank"><img src="/images/posts/bp-overview-systems.png" alt="Process and Systems"></a>
 
-<img src="/images/posts/Matrix-BP-Sys.png" alt="Matrix" target="_blank">
-
-With this association, it is possible to detect if two or more systems serve the
-same purpose. If this is the case, it deserves further analysis to identify if they offer similar
-functionalities to avoid redundancy. Such a deep investigation is only possible if you start with this
-basic structure.
+This is important because software is the main driver of process execution nowadays. These links guide people to where they will find tools, data, triggers and reports to run the processes properly. It also helps to know what a person executing a process needs in terms of authentication and authorization to use those systems.
 
 ### Who is involved?
 
-Knowing who to contact is a question that kept on popping up. Mainly, people wanted to know:
-who is the project manager of this
-tool? Who is the product manager or the product owner? To answer them all at once,
-I created a variation of this diagram with key stakeholders.
+Interactions between people is key to the success of any process. To be able to broaden your point of view beyond your own role and unit, this diagram helps you see the interactions with others, that your behavior influences them as well as the result produced out of these interrelationships. This broader view is key to identify changes that bring long-lasting improvements.
 
-<a href="/images/posts/BA-BP-macro-process-information-systems-stakeholders-procurement.png" target="_blank">
-<img src="/images/posts/BA-BP-macro-process-information-systems-stakeholders-procurement.png" alt="Stakeholders"></a>
+This is a simple conversation diagram that shows only two participants and the messages they exchange. You can see which flows require communication with people outside the organization, such as asking for tender offers. You also see that the evaluation of offers happen within the organization since only the result is notified to the contractor. To go further, you could create a variation to show how the legal and financial departments and external experts communicate during offer evaluation.
+
+<a href="/images/posts/conversation-diagram-procurement.png" target="_blank"><img src="/images/posts/conversation-diagram-procurement.png" alt="Participants and messages"></a>
 
 ### More details
 
-On my talks to different people, they were very willing to talk about their
-own tasks, so grouping them as a list of activities per process in alignment to
-the procedures was not difficult, but time consuming.
+It was good to have this overview, but I needed to add one more level of activities
+because what was within each process was not clear for everyone.
 
-<a href="/images/posts/BA-BP-process-information-systems-procurement.png" target="_blank">
-<img src="/images/posts/BA-BP-process-information-systems-procurement.png" alt="SubProcesses"></a>
+At this stage of adding details to the processes, the procedures were very useful
+to identify the main activities.
+
+Here is an example of adding one more level of activity for one of the sub-processes.
+
+<a href="/images/posts/bp-overview-sub-process.png" target="_blank">
+<img src="/images/posts/bp-overview-sub-process.png" alt="SubProcesses"></a>
+
+One interesting strategy when adding details to your process is to select a view
+depending on the situation. For instance, if you have a meeting to discuss the
+"Planning" process, use this image. If you need to discuss how to deal with contracts,
+you could expand the last three sub-processes. The idea is not to overload people
+with so many information that they would get distracted and overwhelmed. The goal
+is to make it simple, to show details only when they are needed.
+
+Any other detail you may feel compelled to present early on should deserve further
+analysis. What we have to keep in mind at this stage is that any deeper investigation
+is only possible if you start with this basic structure.
 
 ### Lessons learned
 
-As I started showing these overviews, people put them on their office walls and
-referenced them whenever they needed it.
+The main benefit from these diagrams was to create a collective knowledge.
+As knowledge is shared, the impact can go further than you expect.
+As a business analyst, you can take these diagrams to every meeting and use them to clarify the context and
+define the scope for requirements elicitation. When new people arrive in the
+company or someone starts working with a new process, they use it to quickly
+get a bird's-eye view. Policy writers use them to organize
+the sequence of tasks in their procedures and interlink them to procedures of
+other departments. Project managers use them to group and prioritize requirements.
+Auditors use them as a guide so they don't forget any phase.
+Senior managers finally see which processes they have to focus on if they want
+to satisfy their customers. With time, we could see these diagrams
+on their office walls.
 
-I started taking these diagrams to every meeting and kept on taking
-notes about what people mentioned. I took them to meetings anytime
-people had questions and started using them at the beginning of requirements
-elicitation to clarify the context and define the scope of discussions.
-
-When I started, people warned me that the process was complex.
-But that is yet another reason for doing these diagrams especially when someone
-new arrives in the company or starts working with this process. From several
-feedbacks, they appreciate to quickly get a bird's-eye view.
-
-Getting the end-to-end overview of a process is no easy task. When you arrive in
-a new company and everyone confirms they have it all in their minds, it doesn’t
-mean that everyone has the same collective knowledge. From my experience,
-it has definitely been worth the effort creating a visual representation tailored
-to their needs. Next time I do this, it will probably be different to adapt to the
-company's culture, but I already have a framework to direct my questions towards
-an overall understanding.
+It is challenging to create an overview when a process is complex, procedures
+are disconnected, and people do not have a shared understanding.
+Despite the difficulties, it is extremely important to create these diagrams.
+When you create the overview of a process,
+you help people create a mental model that helps them get a concrete grasp of the
+reality that, otherwise, was dispersed and unknown.
 
 [value-added-chain]: https://en.wikipedia.org/wiki/Value_chain
-[archimate]: http://www.archimate.nl/en/about_archimate/what_is_archimate.html
