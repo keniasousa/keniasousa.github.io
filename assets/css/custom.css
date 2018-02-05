@@ -2,7 +2,7 @@ body {
   padding-top: 70px;
   font: 400 16px/1.5 "Slabo 27px", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #fbfbfb;
+  background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -13,7 +13,7 @@ body {
 img {
   max-width: 100%;
   vertical-align: middle; }
-  
+
   figcaption {
   padding: 5px;
   font-size: 1em;
