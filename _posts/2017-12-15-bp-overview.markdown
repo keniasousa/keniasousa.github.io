@@ -72,6 +72,8 @@ Interactions between people is key to the success of any process. To be able to 
 
 This is a simple conversation diagram that shows only two participants and the messages they exchange. You can see which flows require communication with people outside the organization, such as asking for tender offers. You also see that the evaluation of offers happen within the organization since only the result is notified to the contractor. To go further, you could create a variation to show how the legal and financial departments and external experts communicate during offer evaluation.
 
+<a href="/images/posts/conversation-diagram-procurement.png" target="_blank"><img src="/images/posts/conversation-diagram-procurement.png" alt="Participants and messages"></a>
+
 ### More details
 
 It was good to have this overview, but I needed to add one more level of activities
