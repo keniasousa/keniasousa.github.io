@@ -53,19 +53,6 @@ common understanding, limits scope and deepens the context for analyses.
 
 <img src="/images/posts/bp-overview.png" alt="Activities">
 
-### Which systems support the process?
-
-Let's pause going in further details and talk about information systems.
-
-To determine an IT portfolio, I create a comprehensive list of the systems the company uses.
-A key step is to link systems to
-processes at this high level in order to identify the purpose of
-each system.
-
-<a href="/images/posts/bp-overview-systems.png" target="_blank"><img src="/images/posts/bp-overview-systems.png" alt="Process and Systems"></a>
-
-This is important because software is the main driver of process execution nowadays. These links guide people to where they will find tools, data, triggers and reports to run the processes properly. It also helps to know what a person executing a process needs in terms of authentication and authorization to use those systems.
-
 ### Who is involved?
 
 Interactions between people is key to the success of any process. To be able to broaden your point of view beyond your own role and unit, this diagram helps you see the interactions with others, that your behavior influences them as well as the result produced out of these interrelationships. This broader view is key to identify changes that bring long-lasting improvements.
@@ -110,7 +97,7 @@ the sequence of tasks in their procedures and interlink them to procedures of
 other departments. Project managers use them to group and prioritize requirements.
 Auditors use them as a guide so they don't forget any phase.
 Senior managers finally see which processes they have to focus on if they want
-to satisfy their customers. With time, we could see these diagrams
+to satisfy their customers. With time, you will see these diagrams
 on their office walls.
 
 It is challenging to create an overview when a process is complex, procedures

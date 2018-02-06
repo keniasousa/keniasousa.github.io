@@ -25,3 +25,14 @@ are developed in house and which are corporate software developed in other depar
 or off-the-shelf solutions.
 When there are different system owners, there have been frequent cases of interface issues,
 thus, it helps to know which owner to contact when needed.
+
+### Which systems support the process?
+
+Let's pause going in further details and talk about information systems.
+
+To determine an IT portfolio, I create a comprehensive list of the systems the company uses.
+A key step is to link systems to
+processes at this high level in order to identify the purpose of
+each system.
+
+This is important because software is the main driver of process execution nowadays. These links guide people to where they will find tools, data, triggers and reports to run the processes properly. It also helps to know what a person executing a process needs in terms of authentication and authorization to use those systems.
