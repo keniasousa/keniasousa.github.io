@@ -7,6 +7,8 @@ categories: R, Shiny, OECD
 
 I have created a Shiny application that shows data from the Organisation for Economic Co-operation and Development (OECD) concerning graduates and population per Country and Year. OCDE is an international economic organisation of 34 countries, it publishes statistics on a wide number of subjects.
 
+<img src="/images/posts/shiny-app.png" alt="Shiny App">
+
 The original file from OECD for graduates is on the address: [OECD Graduates][OECDGraduates]{:target="_blank"}
 
 The original file from OECD for Population is on the address: [OECD Population][OECDPopulation]{:target="_blank"}
