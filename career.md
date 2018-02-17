@@ -76,17 +76,17 @@ permalink: /career/
   </div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
-  <div class="cd-timeline-block">
-    <div class="cd-timeline-img cd-picture">
-    <i class="fas fa-chart-line icon"></i>
-    </div> <!-- cd-timeline-img -->
+<div class="cd-timeline-block">
+  <div class="cd-timeline-img cd-picture">
+  <i class="fas fa-chart-line icon"></i>
+  </div> <!-- cd-timeline-img -->
 
-    <div class="cd-timeline-content" style="background-color:#eee">
-      <h2>Information System Business Analyst</h2>
-      <p>The practice of analyzing business process and applying process improvement cycles pulled me into an ongoing improvement mindset.</p>
-      <span class="cd-date">2010 - 2018</span>
-    </div> <!-- cd-timeline-content -->
-  </div> <!-- cd-timeline-block -->
+  <div class="cd-timeline-content" style="background-color:#eee">
+    <h2>Information System Business Analyst</h2>
+    <p>Happy to start applying what I had learned during my PhD about business process management. </p>
+    <span class="cd-date">2010 ~ Today</span>
+  </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->
 
   <div class="cd-timeline-block">
     <div class="cd-timeline-img cd-picture">
@@ -122,6 +122,18 @@ permalink: /career/
   <p>I gathered user needs and designed the user experience of an application for the neighborhood’s annual flea market. Working with technology-novice customers demonstrated the need to adapt techniques to better understand their needs.</p>
   <span class="cd-date">2017</span>
 </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->
+
+<div class="cd-timeline-block">
+  <div class="cd-timeline-img cd-picture">
+  <i class="fas fa-chart-line icon"></i>
+  </div> <!-- cd-timeline-img -->
+
+  <div class="cd-timeline-content" style="background-color:#eee">
+    <h2>Information System Business Analyst</h2>
+    <p>The practice of analyzing business process and applying process improvement cycles pulls me into an ongoing improvement mindset.</p>
+    <span class="cd-date">2010 ~ Today</span>
+  </div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
 </section> <!-- cd-timeline -->
