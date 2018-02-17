@@ -1,8 +1,6 @@
 @import "bourbon/bourbon";
 
 // variables - colors
-
-$main-text: #7f8c97; // main text
 $link: #acb7c0; // anchor tags
 $background: #ffffff; // body background color
 
@@ -75,7 +73,6 @@ body {
 		size: 100%;
 		family: $primary-font;
 	}
-	color: $main-text;
 	background-color: $background;
 }
 
