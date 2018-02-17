@@ -8,7 +8,15 @@
 
     <main class="page-content" aria-label="Content">
       <div class="container">
-        {{ content }}
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+        <br>
+        <p>My career has built up to where it is now according to the following timeline.</p>
+        <br>
+        <div class="panel panel-default">
+            <div class="panel-body">
+              {{ content }}
+            </div>
+          </div>
       </div>
     </main>
 

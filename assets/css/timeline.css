@@ -13,6 +13,7 @@ html * {
   box-sizing: border-box; }
 
 body {
+  padding-top: 70px;
   font-size: 100%;
   font-family: "Slabo 27px", serif;
   background-color: #ffffff; }
@@ -24,10 +25,6 @@ a {
 
 img {
   max-width: 100%; }
-
-h1, h2 {
-  font-family: "Slabo 27px", sans-serif;
-  font-weight: bold; }
 
 /* --------------------------------
 
