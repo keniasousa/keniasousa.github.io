@@ -5,7 +5,7 @@ date: 2018-09-04 12:00:00 +0200
 categories: sport running
 ---
 
-I have done my first 5K run! I was with 800+ women who set the pace on Saturday, August 25 at the .[Toronto Women’s 10k/5k][toronto-women-run]{:target="_blank"} fundraising for POGO (Pediatric Oncology Group of Ontario).
+I have done my first 5K run! I was with 800+ women who set the pace on Saturday, August 25 at the [Toronto Women’s 10k/5k][toronto-women-run]{:target="_blank"} fundraising for POGO (Pediatric Oncology Group of Ontario).
 
 <img src="/images/posts/IMG_1674.JPG" alt="My first 5K Race">
 
