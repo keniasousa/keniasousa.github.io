@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5K"
+title: "Becoming a Runner"
 date: 2018-09-04 12:00:00 +0200
 categories: sport running
 ---
