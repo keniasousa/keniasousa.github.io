@@ -21,4 +21,4 @@ How to do you get around to do that?
 
 **Do you get your people?** For all this to happen, everyone involved needs to be passionated about making things better for their customers, colleagues and for themselves. Sure, this is not the reality, we are humans and even optimists have bad days. I believe that if people are open to learn and change, we can get anywhere. The key is to get people interested in the problem you are trying to solve.
 
-There is much more involved when a change is needed and that can vary for each new case. Consider your situation precisely and dive in. And remember that in process improvement, we target for simplicity.
+There is much more involved when a change is needed and that can vary for each new case. Consider your situation precisely and dive in. And remember that in process improvement, as in any change we try to bring into our lives, we target for simplicity.
