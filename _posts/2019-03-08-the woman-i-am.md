@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Woman I amr"
+date: 2019-03-08 12:00:00 +0200
+categories: women leadership learning
+---
+
 When I found out I was going to have a baby girl, something inside me trembled at the thought of having to protect her. How  would I be able to protect her from everything? Always? 
 
 <p align="center"><img src="/images/posts/IMG_3035.jpg" alt="In the forest"></p>
