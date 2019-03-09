@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Woman I amr"
+title: "The Woman I am"
 date: 2019-03-08 12:00:00 +0200
 categories: women leadership learning
 ---
