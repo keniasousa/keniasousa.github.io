@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "First thoughts on "Prediction Machines""
+title: "First thoughts on Prediction Machines"
 date: 2019-10-01 12:00:00 +0200
 categories: artificial intelligence prediction
 ---
-
 Amazon is closer than ever to change its business model to ship-then-shop - bringing goods to home before they are ordered. 
 I’m not going to be the first one to doubt that given they obtained a US patent on “anticipatory shipping”. 
 
