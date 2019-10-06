@@ -26,6 +26,8 @@ Artificial Intelligence" by 3 Professors at Toronto ‘s Rotman School of Manage
 of intelligence.  
 
 One big question is if machines start solving problems now reserved for humans, will we still have jobs? The answer is yes. There is still 
-much thought, judgement and intelligence we can add. Michael Rhodes, Group Head, Innovation, Technology and Shared Services at TD, corroborates with this, as outlined in [TD's report on Responsible AI in Financial Services][report-ai-financial-services]{:target="_blank"}. Happy to have found this article on Monday following my discovery of this book and celebrate my first year working at TD on Tuesday. I won’t predict anything for now but if I were to – this book is promising.
+much thought, judgement and intelligence we can add. Michael Rhodes, Group Head, Innovation, Technology and Shared Services at TD, corroborates with this, as outlined in [TD's report on Responsible AI in Financial Services][report-ai-financial-services]{:target="_blank"}. 
+
+Happy to have found this article on Monday following my discovery of this book and celebrate my first year working at TD on Tuesday. I won’t predict anything for now but if I were to – this book is promising.
 
 [report-ai-financial-services]: https://newsroom.td.com/featured-news/responsible-ai-in-financial-services-report?utm_campaign=Responsible+AI&utm_medium=bitly&utm_source=OpEd
