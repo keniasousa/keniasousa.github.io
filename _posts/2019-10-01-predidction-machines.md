@@ -21,13 +21,15 @@ As the cost of prediction falls, more industries adopt it and we see it being ap
 used for image recognition at UCL and now it runs every time I look at my iPhone and it unlocks. There is no limit on how we can use it 
 for the good of society. 
 
-This was a quick weekend-read on a bus ride of the first three chapters of the book "Prediction Machines – The Simple Economics of 
-Artificial Intelligence" by 3 Professors at Toronto ‘s Rotman School of Management. It’s one of those page turners, easy to read and full 
-of intelligence.  
+This was a quick weekend-read on a bus ride of the first three chapters of the book ["Prediction Machines – The Simple Economics of 
+Artificial Intelligence"][prediction-machines-book]{:target="_blank"} by 3 Professors at Toronto ‘s Rotman School of Management. It’s one of those page turners, easy to read and full of intelligence.  
 
 One big question is if machines start solving problems now reserved for humans, will we still have jobs? The answer is yes. There is still 
 much thought, judgement and intelligence we can add. Michael Rhodes, Group Head, Innovation, Technology and Shared Services at TD, corroborates with this, as outlined in [TD's report on Responsible AI in Financial Services][report-ai-financial-services]{:target="_blank"}. 
 
 Happy to have found this article on Monday following my discovery of this book and celebrate my first year working at TD on Tuesday. I won’t predict anything for now but if I were to – this book is promising.
+
+[prediction-machines-book]: https://www.amazon.ca/gp/product/1633695670/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=keniasousa-20&creative=330641&linkCode=as2&creativeASIN=1633695670&linkId=3eaea2629898fffb4fc880b08eeba1d7
+
 
 [report-ai-financial-services]: https://newsroom.td.com/featured-news/responsible-ai-in-financial-services-report?utm_campaign=Responsible+AI&utm_medium=bitly&utm_source=OpEd
