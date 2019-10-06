@@ -8,6 +8,8 @@ categories: artificial intelligence prediction
 Amazon is closer than ever to change its business model to ship-then-shop - bringing goods to home before they are ordered. 
 I’m not going to be the first one to doubt that given they obtained a US patent on “anticipatory shipping”. 
 
+<p align="center"><img src="/images/posts/prediction-machines.jpg" alt="Read and Drink Coffee"></p>
+
 <!-- more -->
 
 The trick is that despite all the data they have, the prediction accuracy is not high enough to make this business model profitable in the 
@@ -28,5 +30,3 @@ One big question is if machines start solving problems now reserved for humans, 
 much thought, judgement and intelligence we can add. TD’s head corroborates with this in his last article. Happy to have found this 
 article on Monday following my discovery of this book and celebrate my first year working at TD on Tuesday. I won’t predict anything for 
 now but if I were to – this book is promising. 
-
-<p align="center"><img src="/images/posts/prediction-machines.jpg" alt="Read and Drink Coffee"></p>
