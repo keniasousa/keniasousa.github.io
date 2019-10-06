@@ -22,7 +22,7 @@ used for image recognition at UCL and now it runs every time I look at my iPhone
 for the good of society. 
 
 This was a quick weekend-read on a bus ride of the first three chapters of the book ["Prediction Machines – The Simple Economics of 
-Artificial Intelligence"][prediction-machines-book]{:target="_blank"} by 3 Professors at Toronto ‘s Rotman School of Management. It’s one of those page turners, easy to read and full of intelligence.  
+Artificial Intelligence"][prediction-machines-book]{:target="_blank"} by 3 Professors at Toronto's Rotman School of Management. It’s one of those page turners, easy to read and full of intelligence.  
 
 One big question is if machines start solving problems now reserved for humans, will we still have jobs? The answer is yes. There is still 
 much thought, judgement and intelligence we can add. Michael Rhodes, Group Head, Innovation, Technology and Shared Services at TD, corroborates with this, as outlined in [TD's report on Responsible AI in Financial Services][report-ai-financial-services]{:target="_blank"}. 
