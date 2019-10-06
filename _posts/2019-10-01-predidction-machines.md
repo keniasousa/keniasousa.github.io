@@ -8,6 +8,8 @@ categories: artificial intelligence prediction
 Amazon is closer than ever to change its business model to ship-then-shop - bringing goods to home before they are ordered. 
 I’m not going to be the first one to doubt that given they obtained a US patent on “anticipatory shipping”. 
 
+<!-- more -->
+
 The trick is that despite all the data they have, the prediction accuracy is not high enough to make this business model profitable in the 
 short term.  
 
