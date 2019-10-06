@@ -18,7 +18,7 @@ This is just an example of how prediction influences decision making beyond exec
 A hint on how prediction is transforming organizations and society as it becomes cheaper and more accessible.    
 
 As the cost of prediction falls, more industries adopt it and we see it being applied in a wider range of activities. I remember it being 
-used for image recognition at UCL and now it runs every time I look at my iPhone and it unlocks. There is no limit of how we can use it 
+used for image recognition at UCL and now it runs every time I look at my iPhone and it unlocks. There is no limit on how we can use it 
 for the good of society. 
 
 This was a quick weekend-read on a bus ride of the first three chapters of the book "Prediction Machines – The Simple Economics of 
@@ -26,6 +26,6 @@ Artificial Intelligence" by 3 Professors at Toronto ‘s Rotman School of Manage
 of intelligence.  
 
 One big question is if machines start solving problems now reserved for humans, will we still have jobs? The answer is yes. There is still 
-much thought, judgement and intelligence we can add. TD’s head corroborates with this in his last article. Happy to have found this 
-article on Monday following my discovery of this book and celebrate my first year working at TD on Tuesday. I won’t predict anything for 
-now but if I were to – this book is promising. 
+much thought, judgement and intelligence we can add. Michael Rhodes, Group Head, Innovation, Technology and Shared Services at TD, corroborates with this, as outlined in [TD's report on Responsible AI in Financial Services][report-ai-financial-services]{:target="_blank"}. Happy to have found this article on Monday following my discovery of this book and celebrate my first year working at TD on Tuesday. I won’t predict anything for now but if I were to – this book is promising.
+
+[report-ai-financial-services]: https://newsroom.td.com/featured-news/responsible-ai-in-financial-services-report?utm_campaign=Responsible+AI&utm_medium=bitly&utm_source=OpEd
