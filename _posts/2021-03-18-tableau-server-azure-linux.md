@@ -7,7 +7,7 @@ categories: tableau, cloud, server
 
 I have been doing data analytics for some time and now I'm learning about how to install Tableau Server on the Cloud.  It took a lot of reading, research and trials to get it done so I want to share the step-by-step process with anyone who is doing the same as me - with less than 20 steps. 
 
-![Working](/images/posts/tableau-server-azure.jpg)
+![My dashboard published in Tableau Server](/images/posts/my-dashboard-tableau-server.png)
 
 When the kids heard I had my own server, they thought I was playing Minecraft by myself.You see, they have their own Minecraft Server on the cloud and they can invite their friends to build new villages together. This has been extremely useful during the pandemic when we have to minimize the play dates in person.
 
@@ -140,10 +140,7 @@ Visit https://<ip_address_virtual_machine>
 
 There is no need to deactivate the license because a restart of the virtual machine will preserve the MAC address, as explained in this [Microsoft Developer Network Forum][static-MAC-addresses-Azure-VMs].
 
-Here's a sneak peak of the dashboard I published in my Tableau Server. I'm ready to play and publish on my new Server!
-
-
-![My dashboard published in Tableau Server](/images/posts/my-dashboard-tableau-server.png)
+I'm ready to play and publish on my new Server!
 
 [server-linux-setup]: https://help.tableau.com/v2020.4/server-linux/en-us/setup.htm
 [self-deploy-Tableau-Server-Microsoft-Azure]: https://help.tableau.com/current/server-linux/en-us/ts_azure_single_server.htm
