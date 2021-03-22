@@ -42,57 +42,53 @@ The instructions I used following the steps in this page to [Install Tableau Ser
 
 2. In the local folder, create a user with sudo access (with administrative access) to the computer where you want to install Tableau Server:
 
-$ mkdir ~/.ssh/kenia
-
-mv Downloads/kenia.pem ~/.ssh/kenia
-
-$ cd ~/.ssh/kenia
-
-$ chmod 400 kenia.pem
-
-$ mv kenia.pem ~/.ssh/kenia
+       $ mkdir ~/.ssh/kenia
+       $ mv Downloads/kenia.pem ~/.ssh/kenia
+       $ cd ~/.ssh/kenia
+       $ chmod 400 kenia.pem
+       $ mv kenia.pem ~/.ssh/kenia
 
 3. Log on as a user with sudo access to the virtual machine where you want to install Tableau Server:
 
-$ ssh -i ~/.ssh/kenia/kenia.pem kenia@<ip_address_virtual_machine>
+       $ ssh -i ~/.ssh/kenia/kenia.pem kenia@<ip_address_virtual_machine>
 
 4. Download the Tableau Server .rpm or .deb installer package from the [Tableau Server Downloads and Release Notes page][download-tableau-server]. 
 
 5. Navigate to the directory where you copied the .rpm or .deb package.
 
-$ cd ~/.ssh/kenia 
+       $ cd ~/.ssh/kenia 
 
 6. In the server, use the package manager to install the Tableau Server package
 
-$ sudo apt-get update
-$ sudo apt-get upgrade
-$ sudo apt-get -y install gdebi-core
+       $ sudo apt-get update
+       $ sudo apt-get upgrade
+       $ sudo apt-get -y install gdebi-core
 
 7. In the local machine, give permission to the user to access the virtual machine 
 
-$ scp -i ~/.ssh/kenia/kenia.pem tableau-server-<version>_amd64.deb kenia@<ip_address_virtual_machine>:/home/kenia
+       $ scp -i ~/.ssh/kenia/kenia.pem tableau-server-<version>_amd64.deb kenia@<ip_address_virtual_machine>:/home/kenia
 
 8. In the server, install the Tableau Server package
 
-$ sudo gdebi -n tableau-server-<version>_amd64.deb
+       $ sudo gdebi -n tableau-server-<version>_amd64.deb
 
 
 **Initialize Tableau Services Manager (TSM)**
 
 9. Navigate to the scripts directory
 
-$ cd /opt/tableau/tableau_server/packages/scripts.<version_code>/
+       $ cd /opt/tableau/tableau_server/packages/scripts.<version_code>/
 
 10. Start TSM 
 
 You must include this parameter to accept the Tableau Server End User License Agreement (EULA). The EULA is available in the following location:
 /opt/tableau/tableau_server/packages/docs.<version_code>/Commercial_EULA.txt
 
-$ sudo ./initialize-tsm --accepteula
+       $ sudo ./initialize-tsm --accepteula
                             
 11. Set the password for my account to login in the Server
 
-$ sudo passwd kenia
+       $ sudo passwd kenia
 
 12. Log off and log on again to the terminal before you configure Tableau Server. 
 
@@ -120,7 +116,7 @@ Fill in the setup page and click on Initialize.
 
 Follow the steps on the page to [Add and Adminsitrator Account][add-admin-account]. I accessed the computer remotely and run the tabcmd initialuser command:
 
-tabcmd initialuser --server http://localhost --username 'tableau-admin' 
+    $ tabcmd initialuser --server http://localhost --username 'tableau-admin' 
 
 16. Access the Tableau Server
 
