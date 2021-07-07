@@ -1,48 +1,99 @@
 ---
 layout: post
-title: "How to Roll Out Business Architecture"
+title: "How to Roll Out Enterprise Architecture"
 date: 2021-05-06 12:00:00 +0200
-categories: lean, process improvement, pdca
+categories: lean, systems thinking, process improvement, customer, enterprise architecture 
 ---
 
-Every company wants to give the best customer experience. But even when they offer usable applications, there are still broken links in that experience that leave their customers unsatisfied. How can we find what's wrong? Where do we start?
+Every company wants to give the best customer experience. But even when they offer usable applications, there are still broken links in that experience leaving their customers unsatisfied. How can we find what's wrong? Where do we start?
 
 <!-- more -->
 
-What sometimes happens is that each department has an efficient process but the gap lies in the communication between them. The reality is that companies already have some kind of representation of their processes, whether in text or in modeling tools. And when we try to connect the dots, we realize that each department uses different definitions and entities for the same meaning in the customer view. For example, a participant of an education program wants to be identified as a person, not with different identifications whether this semester they are a student and the next they are a volunteer. 
+What happens sometimes is that each department has an efficient process but the gap lies in the communication between them. The reality is that companies already have some kind of representation of their processes, whether in text or in modeling tools. And when we try to connect the dots, we realize that each department uses different definitions and entities for the same meaning. For example, a participant of an education program wants to be identified as a person, not with different identifications whether this semester they are a student and the next they are a volunteer. 
 
-So, before we are able to close the gap in the customer experience, we need to create a business architecture. This holistic view harmonizes how we represent entities in a common repository to increase transparency and make it easier to identify impact of changes across different teams.
+So, before we are able to close the gap in the customer experience, we need to create an enterprise and business architecture. This holistic view harmonizes how we represent entities in a common repository to increase transparency and make it easier to identify impact of changes across different teams.
 
-We can follow a 4-step process to roll out business architecture and build end-to-end processes that are seamless for customers. This flow is composed of small experiments that enable learning and improving;
+## Definition and Structure
 
-**1) Plan: Define the process prioritizing customers**
+There are different frameworks, tools and approaches for Enterprise Architecture and Business Architecture in they way they are structured. But in a nutshell, [Enterprise Architecture][ea-gartner] is usually seen as encompassing business architecture and it supports the enterprise to change and achieve the desired business vision. [Business Architecture][BA] primarily focuses on the business aspects and how they are linked. Together, we can use them to define the structure of the organization that can be broken down in different domains:
 
-Prioritize the processes that need more attention focused on customers needs. 
+1. The **Business Architecture**: maps the business objectives, the business processes, the business functions, and the organization structure.
 
-Understanding exactly what customers are going through is a good starting point to understand limitations in the process. There are different techniques we could use such as process modeling, value stream mapping, mapping the customer journey, etc. The point here is to base it on actual observation to get an accurate view of the current situation. In lean, the Japanese word "Gemba" is used to represent that we go in the actual place where the work is happening so we are able to understand the impact of the problem.
+2. The **Data Architecture**: defines data standards starting from business entities to the level of physical assets used in systems.
 
-This current process is the basis to analyze the gaps, identify the reasons and define hypothesis that will be tested and refined in practice.
+3. The **Application Architecture**: describes application landscape that supports business processes, and how they interact with each other and with users.
 
-**2) Do: Do the work**
+3. The **Technical Architecture**: defines the technology components used to develop the applications and their relationship to each other.
 
-Take note of what happens. This is an important moment to collect data so we can use it to identify insights and action plans to improve the customer experience.
+## Linking the views 
 
-**3) Check: Learn about what is working and what is not**
+Each organization will define how these domains are connected and each business unit uses this so they understand each other and work in collaboration to achieve common goals.
 
-Clearly analyze what happened in each step of the process and highlight the successes as well as the difficulties with everyone. This is my favorite step and it  is aligned to lean thinking that advocates exposing problems so we can fix them.
+You'll find I usually attempt to organize work in a series of steps to make it easier to follow so I can focus on the content. However, defining Enterprise Architecture is rather organic, it's more like making a puzzle.
 
-**4) Act: Share learning and define future state direction**
+When we work on one piece, it points us to another one until we complete it. A few questions we can ask when we are defining the Enterprise Architecture are:
 
-The purpose is to follow this iterative process to try each idea and define actions based on what we learned. This is the point of the process we share what we learned and it takes us back to the planning table to keep on adapting. Defining changes in processes that solve a current problem is a way to constantly evolve by improving one thing at a time.
+- The **Business Strategy**: which functions and business units are operating to achieve our goals, which processes are impacted, what terminology is shared to guide the strategy?
 
-**PDCA as a support to learn and improve:**
+- The **Business Capabilities**: are they supporting organizational goals, are the responsibilities reflected in the processes, are functions mapped to the organization structure, is the data shared between different functions?
 
-According to the Nature Human Behaviour Journal, people have a bias that more is strategic and neglect to see simple as strategic. But given the choice, the percentage of people choosing simplification strategies increases, which is good news to advocate for simplicity to make transitions easier.
+- The **Value stream**: do the activities help achieve the goals, have we identified how stakeholders, functions and business units collaborate, is there a common terminology across processes?
 
-Going through any change can be difficult but following these steps can simplify this journey by helping us embrace uncertainty and learning as we go. We don't know what we'll find out when we check how the process went and what will happen after we make the improvements. That is the reason for experimenting in an iterative cycle so everyone learns by doing.
+- The **Organizational**: are business units and roles linked to business functions and are they aware of how they support the organizational goals, are the processes useful to guide them with enough flexibility, is terminology supporting good communication? 
 
-*Some other simplification strategies that can help in the transition:*
+- The **Business Knowledge**: are there specific terms that are used differently that cause confusion? is data accessible to understand, operate and improve processes?
 
-Representation: When there are several teams in the same function, maybe they are separated by organizational structures or location, it's important to define an effective process that takes the best from each team. A harmonized process across different teams allows us to track their evolution towards common goals. This is similar to how franchises work. 
+- The **Applications**: which applications support key processes, which roles operate core applications, how does data flow across applications?
 
-Notation: Transitioning to BPMN can be overwhelming so I recommend to keep the convention simple and start training analysts and business stakeholders on a set of most frequently used symbols. 
+## Principles
+
+It can seem overwhelming to take a systems thinking approach to Enterprise Architecture because it makes us think of defining how all parts interrelate to each other as part of the larger context they belong to. We can't help but think of documenting all aspects of our business and their relationships. One approach to help is to start small and operate through iterative cycles.
+
+We can follow four principles:
+
+1) Simplicity: Prioritize focused on customers
+
+    According to the [Nature Human Behaviour Journal][Nature], as I learned from [Liane Davey][liane-davey], people have a bias that adding more things is strategic. But given the choice, the percentage of people choosing simplification strategies increases, which is good news to advocate for simplicity to make transitions easier.
+
+2) Customer-centered: Observe what's happening to highlight problems
+
+    Understanding exactly what customers are going through helps understand limitations. The point is to base it on actual observation to get an accurate view of the situation. In lean, the Japanese word _Gemba_ is used to represent that we go in the actual place where the work is happening so we are able to understand the impact of the problem.
+
+3) Systems Thinking: Look at the overall picture and rely on relationships to help see the impact of changes
+
+    Business is an interconnected network with complex and dynamic interactions. Our goal is to see how changes in one place impact other areas and learn how to look beyond where the problem is occurring since it can be influenced by other areas.
+
+4) Lean: Iteratively test ways to solve problems in practice
+
+    Going through any change can be difficult but we can simplify this journey by embracing uncertainty and learning as we go. We don't know what we'll find out after we make improvements. That is the reason for experimenting and refining in practice in an iterative cycle so everyone learns by doing.
+
+## Beyond the surface
+
+Enterprise Architecture seems similar to weather forecasting to me in different ways:
+
+- It needs a standard vocabulary describing key elements
+
+- It needs to be broadcasted so people are aware and can take proper action
+
+- There are many aspects that influence it and we need a scientific approach to make sense of it
+
+- It needs to be measured to determine the success rate
+
+- It assumes we take a holistic view, looking beyond just one location. Interesting to learn that it was only after the invention of the electric telegraph in the early 19th century that [weather forecasting][weather-forecasting] improved accuracy because it allowed reports from a wider region to be received and influence other areas almost instantaneously.
+
+Enterprise Architecture is sometimes seen as a heavy approach when people try to focus on upfront modeling, on a paper exercise without trying it in practice and forget about the relationships between the domains. But what's worse for leaders is to face avoidable problems had we understood how our businesses are connected. Enterprise Architecture is seen as strategic for [change and innovation][ea-innovation] since it supports contextualized decision-making when we are faced with so many changes, especially now as we are seeing it in society, businesses and customers.
+
+Teams have to choose the best approach, tools or a combination of those to support them in this journey. But as a foundation, it's important that team members are aligned. So when they need to decide which path to take, they know everyone will be based on the same set of principles.
+
+[BA]: https://www.omg.org/bawg/business_architecture_overview.htm
+
+[weather-forecasting]: https://www.bbc.com/news/magazine-32483678 
+
+[Nature]: https://www.nature.com/articles/s41586-021-03380-y
+
+[liane-davey]: https://www.lianedavey.com/why-youre-so-busy-and-how-to-ruthlessly-prioritize/
+
+[ea-gartner]: https://www.gartner.com/en/information-technology/glossary/enterprise-architecture-ea 
+
+[ea-innovation]: https://www.gartner.com/smarterwithgartner/enterprise-architecture-enables-digital-innovation/
+
