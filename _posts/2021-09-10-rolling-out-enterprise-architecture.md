@@ -7,17 +7,17 @@ categories: lean, systems thinking, process improvement, customer, enterprise ar
 
 ![Network](/images/posts/ea.png)
 
-Ana-Maria's first work experience as a co-op is still vivid in her memory. That very first day, she went to the bank to find her salary already deposited and get a cheque to sign the lease contract of her cozy little apartment. That feeling of "everything is under control" helped her feel confident with the challenge of moving from her home town in Bucharest, Romania, to Brussels, Belgium, and living on her own for the first time. 
+Ana-Maria's first work experience as a co-op is still vivid in her memory. That very first day, she went to the bank to find her salary already deposited and get a cheque to sign the lease contract of her cozy little apartment. That feeling of "everything is under control" helped her feel confident with the challenge of moving from her home town in Bucharest, Romania, to Brussels, Belgium, and living on her own for the first time.
 
 Twenty years have passed and she is now the coordinator of co-op assignments in a large European non-profit organization. She welcomes cohorts of over 600 undergraduate students from all over Europe. One of her biggest commitments is to manage their first and all subsequent payments on time. To get all the wheels turning, she and her colleagues work long hours on manual administrative tasks. At the beginning, it was fairly easily, but as the program success increased along with the number of incoming students, their work got harder to coordinate with all parties. 
+
+<!-- more -->
 
 International co-ops are a special professional engagement. They are paid on the very first day of work so they can settle in their experience. Ana-Maria knew she couldn't manage it alone, so she needed to work with third parties. She connected with the accounting department in advance, agreed on payment dates, made sure to send the list of students with bank accounts, and was on the phone with students or bank branches to solve any last minute issues. She was satisfied only when she knew all transactions had been successfully completed the day prior to their arrival.
 
 When she wanted to decrease the administrative burden by simplifying the list of documentation requested to students, she had to align with existing regulations and processes by working closely with the document management and communications teams. To get all students allocated in different departments depending on their skills and interests, she needed to involve representatives from each department in a simple selection process. When she saw that her team was still struggling to maintain everything organized and share the information in a timely manner, she started making it a paperless process with the technology team. 
 
 Like Ana-Maria, every company is trying their best to give the best customer experience, but even when they think they've thought of everything, there are still broken links leaving their customers unsatisfied. Where do we start? How can we find what's wrong?
-
-<!-- more -->
 
 Just as Ana-Maria realized early on, it's hard for one department to solve problems for their customers on their own. Sure they can solve part of it, but usually we need to work with other people in the organization if we want customers to have a good experience.
 
