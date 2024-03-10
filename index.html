@@ -44,9 +44,23 @@ layout: home
     </div>
 
     <div class="panel panel-default">
-         <a class="twitter-timeline" data-height="800" href="https://twitter.com/keniasousa?ref_src=twsrc%5Etfw">Tweets by keniasousa</a>
-         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <div class="panel-heading">
+        <h3 class="panel-title">Recent Posts</h3>
+      </div>
+      <div class="panel-body">
+        <ul class="post-list">
+          {% for post in site.posts limit:15 %}
+            {% if post.title != page.title %}
+              <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <h3>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h3>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
     </div>
-
   </div>
 </div>
