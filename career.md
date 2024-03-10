@@ -136,6 +136,19 @@ permalink: /career/
   </div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
+
+<div class="cd-timeline-block">
+  <div class="cd-timeline-img cd-picture">
+  <i class="fas fa-chart-line icon"></i>
+  </div> <!-- cd-timeline-img -->
+
+  <div class="cd-timeline-content" style="background-color:#eee">
+    <h2>Process Engineer </h2>
+    <p>Applying Lean Six Sigma for advanced statistical analysis and continuous process improvement.</p>
+    <span class="cd-date">2010 ~ Today</span>
+  </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->
+
 </section> <!-- cd-timeline -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
