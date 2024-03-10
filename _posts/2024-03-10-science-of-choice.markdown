@@ -5,6 +5,7 @@ date: 2024-03-10 12:00:00 +0200
 categories: lean, systems thinking, process improvement
 ---
 
+![Network](/images/posts/do-hard-things-book.jpg)
 
 Performance is becoming a big part of my life. First, my kids are in competitive swimming, how do I help them be resilient through all the difficult moments? Second, after I ran my first marathon, I’m constantly training for the next race. How do I listen to my body but still transcend discomfort? 
 Third, I’m working on simplifying performance management in the workplace; how can leaders help develop a sense of control in those they work with? Today, I’ll focus on the last one, sharing a story that resonated with me that demonstrates the power of choice.
