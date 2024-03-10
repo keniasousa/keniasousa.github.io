@@ -5,9 +5,10 @@ permalink: /about/
 ---
 
 I am Kenia Sousa, mom to two beautiful and creative kids and wife to an amazing
-man. I'm a Process Engineer at TD Bank in Canada. I love working with a group of 
-people who are always looking to improve customer and colleague experience 
-using a continuous improvement philopsophy.
+man. I'm a Process Engineer at TD Bank in Canada. I'm a Lean Six Sigma Black Belt 
+applying advanced statistical analysis of process improvement.
+I love working with a group of  people who are always looking to improve customer 
+and colleague experience using a continuous improvement philopsophy.
 
 Previously, I was a business analyst in one of the biggest education programmes
 of the European Commission, [Erasmus+][erasmus-plus]{:target="_blank"} in Belgium. 
