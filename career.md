@@ -132,7 +132,7 @@ permalink: /career/
   <div class="cd-timeline-content" style="background-color:#eee">
     <h2>Information System Business Analyst</h2>
     <p>The practice of analyzing business process and applying process improvement cycles pulls me into an ongoing improvement mindset.</p>
-    <span class="cd-date">2010 ~ Today</span>
+    <span class="cd-date">2010 ~ 2018</span>
   </div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
@@ -145,7 +145,7 @@ permalink: /career/
   <div class="cd-timeline-content" style="background-color:#eee">
     <h2>Process Engineer </h2>
     <p>Applying Lean Six Sigma for advanced statistical analysis and continuous process improvement.</p>
-    <span class="cd-date">2010 ~ Today</span>
+    <span class="cd-date">2018 ~ Today</span>
   </div> <!-- cd-timeline-content -->
 </div> <!-- cd-timeline-block -->
 
