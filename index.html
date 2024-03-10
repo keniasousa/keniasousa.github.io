@@ -32,7 +32,7 @@ layout: home
       </div>
       <div class="panel-body">
         <ul class="post-list">
-          {% for post in site.posts offset:3 limit:5 %}
+          {% for post in site.posts offset:3 limit:15 %}
             {% if post.title != page.title %}
               <li>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
