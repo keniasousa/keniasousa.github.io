@@ -4,34 +4,17 @@ layout: home
 
 <div class="row">
   <div class="col-md-8">
-    <header class="post-header">
-      <span class="post-meta">{{ site.posts[0].date | date: "%b %-d, %Y" }}</span>
-      <a href="{{ site.posts[0].url | prepend: site.baseurl }}"><h1 class="post-title">{{site.posts[0].title}}</h1></a>
-    </header>
-
-    <div class="post-content" itemprop="articleBody">
-      {{site.posts[0].excerpt}}
-      <a href="{{ site.posts[0].url | prepend: site.baseurl }}" class="btn btn-default">Continue reading...</a>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h3 class="panel-title">Recent Posts</h3>
+    {% for post in site.posts limit:3 %}
+      <header class="post-header">
+        <span class="post-meta">{{ site.posts[0].date | date: "%b %-d, %Y" }}</span>
+        <a href="{{ site.posts[0].url | prepend: site.baseurl }}"><h1 class="post-title">{{site.posts[0].title}}</h1></a>
+      </header>
+  
+      <div class="post-content" itemprop="articleBody">
+        {{site.posts[0].excerpt}}
+        <a href="{{ site.posts[0].url | prepend: site.baseurl }}" class="btn btn-default">Continue reading...</a>
       </div>
-      <div class="panel-body">
-        <ul class="post-list">
-          {% for post in site.posts offset:1 limit:5 %}
-            <li>
-              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-              <h2>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </h2>
-            </li>
-          {% endfor %}
-        </ul>
-        <p><a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="btn btn-default">Subscribe via RSS</a></p>
-      </div>
-    </div>
+    {% endfor %}
   </div>
   <div class="col-md-4">
     {% assign reviewed = site.data.books[0] %}
@@ -49,7 +32,7 @@ layout: home
       </div>
       <div class="panel-body">
         <ul class="post-list">
-          {% for post in site.posts limit:15 %}
+          {% for post in site.posts offset:3 limit:5 %}
             {% if post.title != page.title %}
               <li>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
