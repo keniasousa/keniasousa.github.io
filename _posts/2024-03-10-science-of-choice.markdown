@@ -43,7 +43,6 @@ Yet, in training, the coach/manager takes on the decision-making mantle. The dir
 No, not by making the athletes/employees in charge of designing their workouts/ work plan, but by giving a large portion of control back to them. How? The coach/manager shifts from dictating to putting the athletes/employees in a situation where they are challenged, but giving them freedom to try, adjust, perhaps even fail, but above all, learn.  
 When we put them in a position to choose, it allows them to regulate the anxiety that often comes with difficult moments that happen when we are training/ working, say, in a customer facing environment. With control, our brain literally turns on, figuring out how to work our way through the situation at hand.
 
-
 ## Leading Others
 
 When leading others, as a teacher, as a coach, as a parent, as a manager, there are some exercises that help develop a sense of control in those we lead or work with:
