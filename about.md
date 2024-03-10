@@ -5,11 +5,15 @@ permalink: /about/
 ---
 
 I am Kenia Sousa, mom to two beautiful and creative kids and wife to an amazing
-man. I'm currently a business analyst of one of the biggest education programmes
-of the European Commission, [Erasmus+][erasmus-plus]{:target="_blank"}. I elicit requirements leading
-workshops, model business processes using BPMN, specify system impact, create
-prototypes, support creating user manuals, monitor processes and identify and
-apply process improvements.
+man. I'm a Process Engineer at TD Bank in Canada. I love working with a group of 
+people who are always looking to improve customer and colleague experience 
+using a continuous improvement philopsophy.
+
+Previously, I was a business analyst in one of the biggest education programmes
+of the European Commission, [Erasmus+][erasmus-plus]{:target="_blank"} in Belgium. 
+I elicited requirements leading workshops, modeled business processes using BPMN, 
+specified system impact, created prototypes, created user manuals, 
+monitored processes and identified and applied process improvements.
 
 I have a PhD in Economics and Management Sciences, achieved with a strong academic
 participation with several publications and a thesis on usability for business.
@@ -21,9 +25,9 @@ they had in their processes and saw how much usability could improve these
 processes. So, I wrote my PhD thesis on bridging the gap between
 usability and business processes.
 
-In 2011 I became a mother and it made me a different person. I
+In 2011, I became a mother and it made me a different person. I
 discovered a strength and desire to succeed more powerful than ever. Before my
-kids, success was about having fun, afterwards, it was a commitment.
+kids, success was about having fun, after that, it was a commitment.
 I became more eager to learn new things and be a better version
 of myself each day.
 
@@ -61,10 +65,15 @@ life as an act of love. The strongest memories I have from my beloved late grand
 are the smell and taste of her unique food. If I could use my work vocabulary:
 Food is a deliverable with immediate user feedback and it better be good!
 
-One year ago, I have taken the challenge to start Aikido. It has definitely
+In 2016, I have taken the challenge to start Aikido. It has definitely
 changed who I am. It has taught me not to be afraid of making mistakes and that has
 given me the chance to try until I get it done. Now, I am more confident in my
 movements and that resonates in every single aspect of my life, making me
 a better person, more balanced and healthier.
+
+In 2018, I started running and today I call myself a runner. I have run many half marathons 
+and completed my first full 42k marathon in October 2023 running the Marine Corps Marathon
+in Washington D.C. I apply the Kaizen philosophy to implement daily small improvements in what 
+I do.
 
 [erasmus-plus]: http://ec.europa.eu/programmes/erasmus-plus
