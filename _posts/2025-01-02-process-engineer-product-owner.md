@@ -7,7 +7,7 @@ categories: lean, systems thinking, process improvement, customer, agile
 
 ![Network](/images/posts/safe-po-pm.png)
 
-I just got my certification as a Scaled Agile Framework (SAFe) Product Owner and Product Manager [safe-po-pm] and I want to share my initial thoughts comparing a Process Owner role with my role as a Process Engineer.
+I just got my certification as a Scaled Agile Framework (SAFe) ["Product Owner and Product Manager"][safe-po-pm]]{:target="_blank"}  and I want to share my initial thoughts comparing a Process Owner role with my role as a Process Engineer.
 
 As a Process Engineer, I collaborate with different teams to improve processes while a Product Owner collaborates with agile teams to deliver products or services to customers. I see several commonalities between their roles and mindset. Here are my top 3:
 
