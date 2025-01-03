@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Process Owner"
+title: "Product Owner and Process Engineer"
 date: 2025-01-02 12:00:00 +0200
 categories: lean, systems thinking, process improvement, customer, agile
 ---
