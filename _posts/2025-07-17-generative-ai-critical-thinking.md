@@ -21,13 +21,15 @@ Interestingly, **confidence in one’s own abilities** has the opposite effect. 
 
 ![Network](/images/posts/critical-thinking-gen-ai.jpg) 
 
-# **What Drives Critical Thinking (and What Gets in the Way)**
+# **What Drives Critical Thinking**
 
 The survey uncovered key main **motivators** that push workers to think critically when using generative AI:
 
 1. **To increase the quality of their work**
 2. **To avoid potential harm from incorrect AI outputs** in high-stakes scenarios
 3. **To develop their knowledge and skills** and learn best practices
+
+# **What Gets in the Way**
 
 On the flip side, **inhibitors** to critical thinking include:
 
