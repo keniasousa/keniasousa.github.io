@@ -11,6 +11,8 @@ A ["recent study"][article]{:target="_blank"} titled *“The Impact of Generativ
 
 Here are the key takeaways from the study and why they matter for the future of work.
 
+<!-- more -->
+
 # **When Trust in AI Replaces Thoughtful Engagement**
 
 The study found that **when workers trust generative AI tools**, they are **less likely to use critical thinking**. Trust leads to reliance, and reliance can diminish cognitive engagement. When AI output is taken without questioning assumptions or verifying facts, there's a risk of overlooking flawed logic, biased assumptions, or missing context—issues that can have serious consequences, especially in high-stakes environments like finance, healthcare, or law.
