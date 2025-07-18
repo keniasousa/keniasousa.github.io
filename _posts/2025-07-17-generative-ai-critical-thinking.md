@@ -7,7 +7,7 @@ categories: Generative AI, Artificial Intelligence, Critical Thinking
 
 As generative AI tools like ChatGPT and Copilot rapidly integrate into knowledge work, they’re streamlining how we write, brainstorm, and retrieve information. But there’s a growing concern among researchers, educators, and business leaders: **What’s happening to our critical thinking in the process?**
 
-A ["recent study"][article]{:target="_blank"}titled *“The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects from a Survey of Knowledge Workers”* offers valuable insights into this question. By surveying **319 knowledge workers**, the authors explored **when and how professionals perceive they use critical thinking** when interacting with generative AI and **how generative AI impacts their perceived effort of thinking critically**.
+A ["recent study"][article]{:target="_blank"} titled *“The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects from a Survey of Knowledge Workers”* offers valuable insights into this question. By surveying **319 knowledge workers**, the authors explored **when and how professionals perceive they use critical thinking** when interacting with generative AI and **how generative AI impacts their perceived effort of thinking critically**.
 
 Here are the key takeaways from the study and why they matter for the future of work.
 
