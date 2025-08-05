@@ -9,11 +9,11 @@ categories: agentic ai, innovation
 
 # What Is Agentic AI?
 
-My interest for generative Artificial Intelligence (AI) keeps growing. But as I go deeper, I find myself drawn to [Agentic AI] [ibm-agentic-ai]{:target="_blank"}. This shift raises a few questions, such as what is the dfiiference between generative AI and Agentic AI? And how can process engineering help us understand, structure, and design smart autonomous systems?
+My interest for generative Artificial Intelligence (AI) keeps growing. But as I go deeper, I find myself drawn to [Agentic AI] [ibm-agentic-ai]{:target="_blank"}. This shift raises a few questions, such as what is the difference between generative AI and Agentic AI? And how can process engineering help us understand, structure, and design smart autonomous systems?
 
 A plain LLM agent operates in a reactive mode. It waits for a prompt and then processes it using its language capabilities. Their memory is limited to the current interaction. Here, you can think of when you ask a Large Language Model (LLM) chatbot, such as ChatGPT a question.
 
-Moving towards more advanced LLM-based systems, agents leverage the LLM for different sub-tasks, they often operate in response to an initial user prompt and follow a predefined sequence of operations. Here, you can use a LLM-based solution that acts as an intelligent interface, translates a human request and finds relevant information from a knwoledge base. 
+Moving towards more advanced LLM-based systems, agents leverage the LLM for different sub-tasks. They often operate in response to an initial user prompt and follow a predefined sequence of operations. Here, you can use an LLM-based solution that acts as an intelligent interface, translates a human request and finds relevant information from a knowledge base. 
 
 A [true agentic AI system] [acm-agentic-ai]{:target="_blank"} is designed to understand a high-level goal and independently plan and execute multi-step actions, utilize a diverse set of tools, and adapt its approach based on the outcomes, all aimed at achieving that overarching objective with minimal human intervention. 
 
@@ -49,7 +49,7 @@ Agentic AI is best suited for process steps that are:
 
 # How to Find these Processes
 
-According to [McKinsey] [mckinsey]{:target="_blank"}, "AI initiatives should no longer be scoped around a single use case, but instead around the end-to-end reinvention of a full process or persona journey." We should adopt a systems view when we rethink workflows, human-copmputer interactions, and performance metrics .
+According to [McKinsey] [mckinsey]{:target="_blank"}, "AI initiatives should no longer be scoped around a single use case, but instead around the end-to-end reinvention of a full process or persona journey." We should adopt a systems view when we rethink workflows, human-computer interactions, and performance metrics.
 
 Business process management and Lean Six Sigma are essential tools when developing agentic AI solutions, especially when aiming to design AI agents that act autonomously, responsibly, and with clear business value. Here's how:
 
@@ -71,7 +71,7 @@ Agentic AI is being considered the top trend to shape the future with responsibl
 
 This is where a process mindset becomes indispensable. By understanding workflows through techniques like process mapping and value stream analysis, organizations can identify which steps are ready for agentic automation, where human oversight is essential, and how to ensure goal-aligned AI behavior.
 
-The path forward isn't jus about adoption, it's about transformation. We need to invest in the right foundation to build the knowledge we need so we can innovate tomorrow.
+The path forward isn't just about adoption, it's about transformation. We need to invest in the right foundation to build the knowledge we need to innovate tomorrow.
 
 [ibm-agentic-ai]: https://www.ibm.com/think/insights/agentic-ai
 
