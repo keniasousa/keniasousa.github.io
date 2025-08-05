@@ -5,6 +5,8 @@ date: 2025-08-03 23:55:21 +0200
 categories: agentic ai, innovation
 ---
 
+![Image generated from Google Gemini](/images/posts/process-agentic-ai-post.jpg) 
+
 # What Is Agentic AI?
 
 My interest for generative Artificial Intelligence (AI) keeps growing. But as I go deeper, I find myself drawn to [Agentic AI] [ibm-agentic-ai]{:target="_blank"}. This shift raises a few questions, such as what is the dfiiference between generative AI and Agentic AI? And how can process engineering help us understand, structure, and design smart autonomous systems?
@@ -48,8 +50,6 @@ Agentic AI is best suited for process steps that are:
 # How to Find these Processes
 
 According to [McKinsey] [mckinsey]{:target="_blank"}, "AI initiatives should no longer be scoped around a single use case, but instead around the end-to-end reinvention of a full process or persona journey." We should adopt a systems view when we rethink workflows, human-copmputer interactions, and performance metrics .
-
-![Image generated from Google Gemini](/images/posts/process-agentic-ai-post.jpg) 
 
 Business process management and Lean Six Sigma are essential tools when developing agentic AI solutions, especially when aiming to design AI agents that act autonomously, responsibly, and with clear business value. Here's how:
 
