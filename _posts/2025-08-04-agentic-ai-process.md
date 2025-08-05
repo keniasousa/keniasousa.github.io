@@ -23,7 +23,7 @@ Now we see a shift from AI systems that generate content to AI systems that stra
 
 Agentic AI is already transforming business operations and customer experience.
 
-*For Businesses:* ["Gartner"] [gartner-agentic-ai]{:target="_blank"} highlights that agentic AI can transform business decision-making by enabling systems to autonomously initiate tasks based on goals, removing the need for repetitive user interactions. According to Gartner, by 2028, 33% of enterprise software applications will include agentic AI, up from less than 1% in 2024 .
+*For Businesses:*  ["Gartner"] [gartner-agentic-ai]{:target="_blank"} highlights that agentic AI can transform business decision-making by enabling systems to autonomously initiate tasks based on goals, removing the need for repetitive user interactions. According to Gartner, by 2028, 33% of enterprise software applications will include agentic AI, up from less than 1% in 2024 .
 
 *For Employees:* ["Gartner"] [gartner-agentic-ai]{:target="_blank"} notes that giving AI agency empowers workers to manage tasks via natural language and automation, enabling them to focus on higher-level work .
 
@@ -75,7 +75,7 @@ The path forward isn't jus about adoption, it's about transformation. We need to
 
 [acm-agentic-ai]: https://cacm.acm.org/blogcacm/ais-next-leap-agentic-intelligence/?utm_source=chatgpt.com
 
-[garner-agentic-ai]:https://www.gartner.com/en/articles/intelligent-agent-in-ai
+[gartner-agentic-ai]:https://www.gartner.com/en/articles/intelligent-agent-in-ai
 
 [tech-mag]: https://technologymagazine.com/articles/gartner-how-agentic-ai-is-shaping-business-decision-making?utm_source=chatgpt.com
 
