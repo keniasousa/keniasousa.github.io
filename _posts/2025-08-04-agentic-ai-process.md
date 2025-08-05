@@ -47,6 +47,8 @@ Agentic AI is best suited for process steps that are:
 
 According to McKinsey, "AI initiatives should no longer be scoped around a single use case, but instead around the end-to-end reinvention of a full process or persona journey." We should adopt a systems view when we rethink workflows, human-copmputer interactions, and performance metrics [mckinsey]{:target="_blank"}.
 
+![Network](/images/posts/process-agentic-ai-post.jpg) 
+
 Business process management and Lean Six Sigma are essential tools when developing agentic AI solutions, especially when aiming to design AI agents that act autonomously, responsibly, and with clear business value. Here's how:
 
 1. Use Process Mining: 
