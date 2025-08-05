@@ -19,7 +19,7 @@ A [true agentic AI system] [acm-agentic-ai]{:target="_blank"} is designed to und
 
 Some [use cases] [copilot-use-cases]{:target="_blank"} we can find from major vendors are invoice processing, insurance claims processing, compliance workflows, lead follow-up & scheduling in sales, etc.
 
-Now we see a shift from AI systems that generate content to AI systems that strategize independently to achieve a goal. They receive a goal, create a plan and use tools to produce outputs. Once AI agents are implemented, there will be role transformations and the need for new skills. According to a report from ["McKinsey"] [mckinsey]{:target="_blank"}, workers must learn to collaborate with agents, interpret outputs, and follow ethical standards .
+Now we see a shift from AI systems that generate content to AI systems that strategize independently to achieve a goal. They receive a goal, create a plan and use tools to produce outputs. Once AI agents are implemented, there will be role transformations and the need for new skills. According to a report from [McKinsey] [mckinsey]{:target="_blank"}, workers must learn to collaborate with agents, interpret outputs, and follow ethical standards .
 
 # How Agentic AI Impacts Businesses, Employees and Customers
 
