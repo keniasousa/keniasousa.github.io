@@ -33,11 +33,11 @@ Explainable AI: Explainability means providing meaningful information about how 
 
 # What the Study Found
 
-## * Users’ Mental Models
+## Users’ Mental Models
 
 Most participants based their understanding of the chatbot on their prior knowledge. 17 out of 24 talked about search capabilities, and only 9 out of 24mentioned concepts like “large language models”. This shows that users often interpret new systems through familiar analogies, which can lead to misunderstandings about how the system actually works. 
 
-## * Evaluating Accuracy
+## Evaluating Accuracy
 
 Many participants judged the quality of responses using simple ideas, such as the length of the response, rather than the credibility of sources. Surprisingly, users showed high confidence in incorrect responses, revealing how difficult it is for humans to gauge AI accuracy without clear signals.
 
@@ -53,11 +53,11 @@ As organizations design the next generation of agentic systems, they must go bey
 
 From a Continuous Improvement perspective, this research reinforces how crucial it is to keep the human experience central when deploying intelligent systems. Proven techniques from Process Engineering and Human-Centered Design	can guide this integration, such as:
 
-- *Value Stream Mapping* — to visualize where humans and AI add value in a process, helping identify where human judgment is critical.
-- *Voice of the Customer (VOC)* — to capture feedback from users to define what good looks like and fine-tune how the system communicates with users.
-- *Root Cause Analysis* — to understand breakdowns in user trust or misalignment between system behaviour and expectations.
-- *User Journeys* — to design interactions that feel intuitive and empower users rather than confuse them.
-- *Gemba Walks* - to observe how people actually use the system in real work conditions to uncover friction points and opportunities to improve.
+- **Value Stream Mapping** — to visualize where humans and AI add value in a process, helping identify where human judgment is critical.
+- **Voice of the Customer (VOC)** — to capture feedback from users to define what good looks like and fine-tune how the system communicates with users.
+- **Root Cause Analysis** — to understand breakdowns in user trust or misalignment between system behaviour and expectations.
+- **User Journeys** — to design interactions that feel intuitive and empower users rather than confuse them.
+- **Gemba Walks** - to observe how people actually use the system in real work conditions to uncover friction points and opportunities to improve.
 
 By combining Continuous Improvement and Human-Centered Design, we want to create systems that don’t just do things better, but make things better for people.
 
