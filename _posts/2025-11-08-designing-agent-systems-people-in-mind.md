@@ -29,7 +29,7 @@ To understand the findings, it helps to revise three fundamental ideas from Huma
 
 1) **Trust and reliance:** Trust is a human judgement that determines whether people will rely on an automated system. For organizations, governance and process design play a key role in supporting trust by clarifying how users assess the accuracy and reliability of outputs. 
 
-2) **Mental Models:** A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things [don-norman]{:target="_blank"}, people act based on these internal beliefs, not on how systems actually operate. Understanding user mental models is essential in designing systems that behave in transparent ways.
+2) **Mental Models:** A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things [Don Norman] [don-norman]{:target="_blank"}, people act based on these internal beliefs, not on how systems actually operate. Understanding user mental models is essential in designing systems that behave in transparent ways.
 
 3) **Explainable AI:** Explainability means providing meaningful information about how the system works and how it makes decisions. This helps users refine their mental models and decide how much to trust the system. 
 
