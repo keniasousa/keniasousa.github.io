@@ -37,7 +37,7 @@ To understand the findings, it helps to revise three fundamental ideas from Huma
 
 ### Users’ Mental Models
 
-Most participants based their understanding of the chatbot on their prior knowledge. 17 out of 24 talked about search capabilities, and only 9 out of 24mentioned concepts like “large language models”. This shows that users often interpret new systems through familiar analogies, which can lead to misunderstandings about how the system actually works. 
+Most participants based their understanding of the chatbot on their prior knowledge. 17 out of 24 talked about search capabilities, and only 9 out of 24 mentioned concepts like “large language models”. This shows that users often interpret new systems through familiar analogies, which can lead to misunderstandings about how the system actually works. 
 
 ### Evaluating Accuracy
 
