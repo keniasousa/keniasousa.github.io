@@ -1,0 +1,52 @@
+Interest in agentic systems, AI systems that can take initiative and act on behalf of humans, is growing rapidly. These systems are becoming feasible across industries. Still, most organizations are seeing the human in the loop, especially in mission-critical contexts. 
+
+I recently came across an interesting study that explores how people interact with agentic systems and evaluate their outputs.  The insights are highly relevant for anyone working on process improvement, digital transformation and human-computer interaction.
+
+The Study
+
+In this article, the researchers conducted a study with 24 participants from a large international technology company. Each participant used an agentic AI chatbot through a conversational user interface to search for information using natural language.
+
+The study focused on three main research questions:
+
+What are users’ mental models of an agentic AI chatbot?
+What information do users rely on to evaluate the accuracy?
+What do users want to know about how the system works?
+
+Key Human-Centered AI Concepts
+
+To understand the findings, it helps to revise three fundamental ideas from Human-Centred AI that will support answering those questions:
+
+Trust and reliance: Trust is a human judgement that determines whether people will rely on an automated system. For organizations, governance and process design play a key role in supporting trust by clarifying how users assess the accuracy and reliability of outputs. 
+Mental Models: A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things, people act based on these internal beliefs, not on how systems actually operate. [Reference from Don Norman] Understanding user mental models is essential in designing systems that behave in transparent ways.
+Explainable AI: Explainability means providing meaningful information about how the system works and how it makes decisions. This helps users refine their mental models and decide how much to trust the system. 
+
+What the Study Found
+
+Users’ Mental Models
+
+Most participants based their understanding of the chatbot on their prior knowledge. 17 out of 24 talked about search capabilities, and only 9 out of 24mentioned concepts like “large language models”. This shows that users often interpret new systems through familiar analogies, which can lead to misunderstandings about how the system actually works. 
+
+Evaluating Accuracy
+
+Many participants judged the quality of responses using simple ideas, such as the length of the response, rather than the credibility of sources. Surprisingly, users showed high confidence in incorrect responses, revealing how difficult it is for humans to gauge AI accuracy without clear signals.
+
+The study emphasizes the need for systems to clearly indicate which sources were checked and which ones were used in the final response. Users valued variety in sources but needed help understanding how those sources influenced the output.
+
+Understanding How the System Works
+
+Users wanted transparency about how sources were identified and prioritized. 16 out of 24 participants wanted more details about the system’s logic and reasoning. However, only 11 of those 16 actually opened the action details provided. This suggests users want transparency, but it must be easy to access and presented in a way that fits their workflow.
+
+Why it Matters for Continuous Improvement 
+
+As organizations design the next generation of agentic systems, they must go beyond functionality. They need systems that can explain how the system gets to its responses, why it is making particular choices, what logic the model is using, what sources it is using and prioritizing, their credibility and how the sources are used to create the response, etc. Technologies like Retrieval-Augmented Generation (RAG) are a step in this direction, but as this study shows, there is still work to be done to learn about how systems determine and justify their actions, especially for complex, multi-step tasks that an agentic system can handle.
+
+From a Continuous Improvement perspective, this research reinforces how crucial it is to keep the human experience central when deploying intelligent systems. Proven techniques from Process Engineering and Human-Centered Design	can guide this integration, such as:
+
+Value Stream Mapping — to visualize where humans and AI add value in a process, helping identify where human judgment is critical.
+Voice of the Customer (VOC) — to capture feedback from users to define what good looks like and fine-tune how the system communicates with users.
+Root Cause Analysis — to understand breakdowns in user trust or misalignment between system behaviour and expectations.
+User Journeys — to design interactions that feel intuitive and empower users rather than confuse them.
+Gemba Walks - to observe how people actually use the system in real work conditions to uncover friction points and opportunities to improve.
+
+By combining Continuous Improvement and Human-Centered Design, we want to create systems that don’t just do things better, but make things better for people.
+
