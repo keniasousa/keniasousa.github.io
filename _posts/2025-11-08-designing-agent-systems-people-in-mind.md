@@ -5,6 +5,8 @@ date: 2025-11-08 10:55:21
 categories: agentic ai, innovation, continuous improvement, human-centered design
 ---
 
+![Image](/images/posts/agentic-systems-mental-model.png) 
+
 Interest in agentic systems, AI systems that can take initiative and act on behalf of humans, is growing rapidly. These systems are becoming feasible across industries. Luckly, most organizations are seeing the human in the loop, especially in mission-critical contexts. 
 
 I recently came across an interesting study that explores how people interact with agentic systems and evaluate their outputs.  The insights are highly relevant for anyone working on process improvement, digital transformation and human-computer interaction.
@@ -17,33 +19,33 @@ In this article, the researchers conducted a study with 24 participants from a l
 
 The study focused on three main research questions:
 
-- * What are users’ mental models of an agentic AI chatbot?
-- * What information do users rely on to evaluate the accuracy?
-- * What do users want to know about how the system works?
+* What are users’ mental models of an agentic AI chatbot?
+* What information do users rely on to evaluate the accuracy?
+* What do users want to know about how the system works?
 
 # Key Human-Centered AI Concepts
 
 To understand the findings, it helps to revise three fundamental ideas from Human-Centred AI that will support answering those questions:
 
 1) **Trust and reliance:** Trust is a human judgement that determines whether people will rely on an automated system. For organizations, governance and process design play a key role in supporting trust by clarifying how users assess the accuracy and reliability of outputs. 
-2) **Mental Models:** A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things[don-norman]{:target="_blank"}, people act based on these internal beliefs, not on how systems actually operate. Understanding user mental models is essential in designing systems that behave in transparent ways.
-3) **Explainable AI:** Explainability means providing meaningful information about how the system works and how it makes decisions. This helps users refine their mental models and decide how much to trust the system. 
 
-![Image](/images/posts/agentic-systems-mental-model.png) 
+2) **Mental Models:** A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things[don-norman]{:target="_blank"}, people act based on these internal beliefs, not on how systems actually operate. Understanding user mental models is essential in designing systems that behave in transparent ways.
+
+3) **Explainable AI:** Explainability means providing meaningful information about how the system works and how it makes decisions. This helps users refine their mental models and decide how much to trust the system. 
 
 # What the Study Found
 
-## Users’ Mental Models
+### Users’ Mental Models
 
 Most participants based their understanding of the chatbot on their prior knowledge. 17 out of 24 talked about search capabilities, and only 9 out of 24mentioned concepts like “large language models”. This shows that users often interpret new systems through familiar analogies, which can lead to misunderstandings about how the system actually works. 
 
-## Evaluating Accuracy
+### Evaluating Accuracy
 
 Many participants judged the quality of responses using simple ideas, such as the length of the response, rather than the credibility of sources. Surprisingly, users showed high confidence in incorrect responses, revealing how difficult it is for humans to gauge AI accuracy without clear signals.
 
 The study emphasizes the need for systems to clearly indicate which sources were checked and which ones were used in the final response. Users valued variety in sources but needed help understanding how those sources influenced the output.
 
-## Understanding How the System Works
+### Understanding How the System Works
 
 Users wanted transparency about how sources were identified and prioritized. 16 out of 24 participants wanted more details about the system’s logic and reasoning. However, only 11 of those 16 actually opened the action details provided. This suggests users want transparency, but it must be easy to access and presented in a way that fits their workflow.
 
