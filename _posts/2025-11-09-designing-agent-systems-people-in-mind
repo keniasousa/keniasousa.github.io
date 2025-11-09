@@ -19,17 +19,17 @@ In this article, the researchers conducted a study with 24 participants from a l
 
 The study focused on three main research questions:
 
-* What are users’ mental models of an agentic AI chatbot?
-* What information do users rely on to evaluate the accuracy?
-* What do users want to know about how the system works?
+- * What are users’ mental models of an agentic AI chatbot?
+- * What information do users rely on to evaluate the accuracy?
+- * What do users want to know about how the system works?
 
 # Key Human-Centered AI Concepts
 
 To understand the findings, it helps to revise three fundamental ideas from Human-Centred AI that will support answering those questions:
 
-Trust and reliance: Trust is a human judgement that determines whether people will rely on an automated system. For organizations, governance and process design play a key role in supporting trust by clarifying how users assess the accuracy and reliability of outputs. 
-Mental Models: A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things, people act based on these internal beliefs, not on how systems actually operate. [Reference from Don Norman] Understanding user mental models is essential in designing systems that behave in transparent ways.
-Explainable AI: Explainability means providing meaningful information about how the system works and how it makes decisions. This helps users refine their mental models and decide how much to trust the system. 
+1) **Trust and reliance:** Trust is a human judgement that determines whether people will rely on an automated system. For organizations, governance and process design play a key role in supporting trust by clarifying how users assess the accuracy and reliability of outputs. 
+2) **Mental Models:** A Mental model is what users believe about how the system works. As Don Norman describes in The Design of Everyday Things, people act based on these internal beliefs, not on how systems actually operate. [Reference from Don Norman] Understanding user mental models is essential in designing systems that behave in transparent ways.
+3) **Explainable AI:** Explainability means providing meaningful information about how the system works and how it makes decisions. This helps users refine their mental models and decide how much to trust the system. 
 
 # What the Study Found
 
