@@ -47,7 +47,7 @@ The study emphasizes the need for systems to clearly indicate which sources were
 
 ### Understanding How the System Works
 
-Users wanted transparency about how sources were identified and prioritized. 16 out of 24 participants wanted more details about the system’s logic and reasoning. However, only 11 of those 16 actually opened the action details provided. This suggests users want transparency, but it must be easy to access and presented in a way that fits their workflow.
+Users wanted transparency about how sources were identified and prioritized. 16 out of 24 participants wanted more details about the system’s logic and reasoning. However, only 11 of those 16 actually opened the details provided. This suggests users want transparency, but it must be easy to access and presented in a way that fits their workflow.
 
 # Why it Matters for Continuous Improvement 
 
