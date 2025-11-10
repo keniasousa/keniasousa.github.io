@@ -41,7 +41,7 @@ Most participants based their understanding of the chatbot on their prior knowle
 
 ### Evaluating Accuracy
 
-Many participants judged the quality of responses using simple ideas, such as the length of the response, rather than the credibility of sources. Surprisingly, users showed high confidence in incorrect responses, revealing how difficult it is for humans to gauge AI accuracy without clear signals.
+Many participants judged the quality of responses using simple ideas, such as the length of the response, rather than the credibility of sources. Surprisingly, users showed high confidence in incorrect responses, revealing how difficult it is for humans to gauge AI accuracy without clear explanations.
 
 The study emphasizes the need for systems to clearly indicate which sources were checked and which ones were used in the final response. Users valued variety in sources but needed help understanding how those sources influenced the output.
 
