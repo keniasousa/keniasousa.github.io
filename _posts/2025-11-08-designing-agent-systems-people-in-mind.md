@@ -9,7 +9,7 @@ categories: agentic ai, innovation, continuous improvement, human-centered desig
 
 Interest in agentic systems, AI systems that can take initiative and act on behalf of humans, is growing rapidly. These systems are becoming feasible across industries. Luckly, most organizations are seeing the human in the loop, especially in mission-critical contexts. 
 
-I recently came across an interesting [study] [acm-article]{:target="_blank"} entitled "Building Appropriate Mental Models: What Users Know and Want to Know about an Agentic AI Chatbot" that explores how people interact with agentic systems and evaluate their outputs.  The insights are highly relevant for anyone working on process improvement, digital transformation and human-computer interaction.
+I recently came across an interesting [study] [acm-article]{:target="_blank"} entitled "Building Appropriate Mental Models: What Users Know and Want to Know about an Agentic AI Chatbot" that explores how people interact with agentic systems and evaluate their outputs.  The insights are highly relevant for anyone working on Process Improvement, Digital Transformation and Human-Computer Interaction.
 
 <!-- more -->
 
@@ -59,7 +59,7 @@ From a Continuous Improvement perspective, this research reinforces how crucial 
 - **Voice of the Customer (VOC)** — to capture feedback from users to define what good looks like and fine-tune how the system communicates with users.
 - **Root Cause Analysis** — to understand breakdowns in user trust or misalignment between system behaviour and expectations.
 - **User Journeys** — to design interactions that feel intuitive and empower users rather than confuse them.
-- **Gemba Walks** - to observe how people actually use the system in real work conditions to uncover friction points and opportunities to improve.
+- **Gemba Walks** — to observe how people actually use the system in real work conditions to uncover friction points and opportunities to improve.
 
 By combining Continuous Improvement and Human-Centered Design, we want to create systems that don’t just do things better, but make things better for people.
 
