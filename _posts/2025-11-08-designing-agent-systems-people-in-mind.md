@@ -9,7 +9,7 @@ categories: agentic ai, innovation, continuous improvement, human-centered desig
 
 Interest in agentic systems, AI systems that can take initiative and act on behalf of humans, is growing rapidly. These systems are becoming feasible across industries. Luckly, most organizations are seeing the human in the loop, especially in mission-critical contexts. 
 
-I recently came across an interesting study that explores how people interact with agentic systems and evaluate their outputs.  The insights are highly relevant for anyone working on process improvement, digital transformation and human-computer interaction.
+I recently came across an interesting [study] [acm-article] entitled "Building Appropriate Mental Models: What Users Know and Want to Know about an Agentic AI Chatbot" that explores how people interact with agentic systems and evaluate their outputs.  The insights are highly relevant for anyone working on process improvement, digital transformation and human-computer interaction.
 
 <!-- more -->
 
@@ -64,3 +64,5 @@ From a Continuous Improvement perspective, this research reinforces how crucial 
 By combining Continuous Improvement and Human-Centered Design, we want to create systems that don’t just do things better, but make things better for people.
 
 [don-norman]: https://www.nngroup.com/books/design-everyday-things-revised/
+
+[acm-article]: https://dl.acm.org/doi/10.1145/3708359.3712071
