@@ -1,37 +1,42 @@
 ---
 layout: post
-title: "What I read in 2025"
+title: "Books I read in 2025"
 date: 2025-12-27 12:00:00 +0200
 categories: books, fiction, non-fiction
 ---
 
 ![Network](/images/posts/books-2025.png)
 
-I want to share the best books I read in 2005.
+I want to share the books I've read in 2005.
 
 <!-- more -->
 
+This year, my reading list looks very different from previous years. I gravitated more towards non-fiction books and moved away from thrillers, leaning instead into contemporary literature that explore ordinary lives with depth and tenderness, particularly the beautiful work from Elizabeth Straut.
+
+These are my top 3 reads of the year:
+
 **1. Violeta by Isabel Allende**
 
-This is a beautifully written story of a woman, her personal experiences interwoven with significant historical events. Isabel Allende is a master in the art of writing, making me cry and laugh throughout the book.
+A beautifully written portrait of a woman whose personal story is deeply intertwined with significant historical events. Isabel Allende is a master storyteller, she made me cry, laugh and reflect throughout the book.
 
 **2. Mindsight by Daniel Siegel**
 
-This book has helped me learn a great deal about the possibilities of personal transformation, especially as I work through overcoming my fear of swimming in open water. This is a book I'll keep returning to review some key practices. Next time I read it, I'll definitely take notes. This is the best book on mental health that I've read so far. I highly recommend it!
-
+This book taught me a great deal about the brain, emotional awareness and the real possibilities of personal transformation. It has been especially meaningful as I work through overcoming my fear of swimming in open water. Mindsignt is a book I know I'll return to again and again, next time with a notebook in hand. It'ss the best book on mental health I've read so far, and I highly recommend it!
 
 **3. A Swim in a Pond in the Rain by George Saunders**
 
-I love reading, but I also love writing. I probably love reading more than writing, so I read books about writing. This is one of the best books about writing that I’ve read so far. The author will take you through seven short stories and share his technical and philosophical opinion of what makes these great stories. It has helped me open my mind and make deeper reflections of what it means to me.
+I love reading, and I also love writing, though if I'm honest, I probably love reading a bit more. That's why I'm drawn to books about writing, and this one stands out. Through seven short stories, George Saunders offers his technical and philosophical insights into what makes great fiction work. This book challenged what I think about storytelling, opening my mind for deeper reflections and what it means to me as a reader and aspiring writer.
 
-Happy Reading!
+Have you read any of these books? I'd love to hear what stood out to you from your own reading this year.
 
 ### Stats
 
 **Total:** 18
 
 **Paper Books:** 10
-**Paper Books:** 8
+
+**e-Reader:** 8
 
 **Fiction:** 13 - 2 Historical Fictions, 2 Thrillers, 2 Young Adult novels, 6 contemporary novels, 1 Poetry
+
 **Non-Fiction:** 5 - Philosophy, Parenting, Psychology, Mental Health, Writing
