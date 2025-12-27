@@ -29,7 +29,7 @@ I love reading, and I also love writing, though if I'm honest, I probably love r
 
 Have you read any of these books? I'd love to hear what stood out to you from your own reading this year.
 
-**4. The Bee Sting by Paul Murray **
+**4. The Bee Sting by Paul Murray**
 
 The Bee Sting is an extraordinary novel that explores the same events through the perspectives of different family members, revealing how profoundly reality can shift depending on who is telling the story. What impressed me most is that each character’s viewpoint is written in a distinct style, a bold choice that made this reading experience so unique. This is not an easy book, it tackles heavy themes such as mental illness, domestic violence, teen cybersecurity, bullying, self-acceptance, and more, but that depth is precisely what gives it its power. If you’re willing to engage with challenging subjects and complex emotions, this is a book I highly recommend.
 
