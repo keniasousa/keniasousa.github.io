@@ -13,7 +13,7 @@ I want to share the books I've read in 2005.
 
 This year, my reading list looks very different from previous years. I gravitated more towards non-fiction books and moved away from thrillers, leaning instead into contemporary literature that explore ordinary lives with depth and tenderness, particularly the beautiful work from Elizabeth Straut.
 
-These are my top 3 reads of the year:
+These are my top reads of the year:
 
 **1. Violeta by Isabel Allende**
 
@@ -28,6 +28,10 @@ This book taught me a great deal about the brain and the real possibilities of p
 I love reading, and I also love writing, though if I'm honest, I probably love reading a bit more. That's why I'm drawn to books about writing, and this one stands out. Through seven short stories, George Saunders offers his technical and philosophical insights into what makes great fiction work. This book challenged what I think about storytelling, opening my mind to deeper reflections and what it means to me as a reader and aspiring writer.
 
 Have you read any of these books? I'd love to hear what stood out to you from your own reading this year.
+
+**4. The Bee Sting by Paul Murray **
+
+The Bee Sting is an extraordinary novel that explores the same events through the perspectives of different family members, revealing how profoundly reality can shift depending on who is telling the story. What impressed me most is that each character’s viewpoint is written in a distinct style, a bold choice that made this reading experience so unique. This is not an easy book, it tackles heavy themes such as mental illness, domestic violence, teen cybersecurity, bullying, self-acceptance, and more, but that depth is precisely what gives it its power. If you’re willing to engage with challenging subjects and complex emotions, this is a book I highly recommend.
 
 ### Stats
 
