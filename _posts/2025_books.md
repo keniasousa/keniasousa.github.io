@@ -33,6 +33,10 @@ Have you read any of these books? I'd love to hear what stood out to you from yo
 
 The Bee Sting is an extraordinary novel that explores the same events through the perspectives of different family members, revealing how profoundly reality can shift depending on who is telling the story. What impressed me most is that each character’s viewpoint is written in a distinct style, a bold choice that made this reading experience so unique. This is not an easy book, it tackles heavy themes such as mental illness, domestic violence, teen cybersecurity, bullying, self-acceptance, and more, but that depth is precisely what gives it its power. If you’re willing to engage with challenging subjects and complex emotions, this is a book I highly recommend.
 
+**5. Untangled by Lisa Damour**
+
+This is a must-read for parents navigating the teenage years. As a mom of a pre-teen girl and a teen boy, I found this book incredibly helpful and reassuring. While the focus is on girls, the insights apply to understanding teenagers of any gender. It helps understand what changes are part of normal development, how to respond, and how to recognize signs that may require closer attention.
+
 ### Stats
 
 **Total:** 18
