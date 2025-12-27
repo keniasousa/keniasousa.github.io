@@ -25,7 +25,7 @@ This book taught me a great deal about the brain and the real possibilities of p
 
 **3. A Swim in a Pond in the Rain by George Saunders**
 
-I love reading, and I also love writing, though if I'm honest, I probably love reading a bit more. That's why I'm drawn to books about writing, and this one stands out. Through seven short stories, George Saunders offers his technical and philosophical insights into what makes great fiction work. This book challenged what I think about storytelling, opening my mind for deeper reflections and what it means to me as a reader and aspiring writer.
+I love reading, and I also love writing, though if I'm honest, I probably love reading a bit more. That's why I'm drawn to books about writing, and this one stands out. Through seven short stories, George Saunders offers his technical and philosophical insights into what makes great fiction work. This book challenged what I think about storytelling, opening my mind to deeper reflections and what it means to me as a reader and aspiring writer.
 
 Have you read any of these books? I'd love to hear what stood out to you from your own reading this year.
 
