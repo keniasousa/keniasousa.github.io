@@ -27,15 +27,15 @@ This book taught me a great deal about the brain and the real possibilities of p
 
 I love reading, and I also love writing, though if I'm honest, I probably love reading a bit more. That's why I'm drawn to books about writing, and this one stands out. Through seven short stories, George Saunders offers his technical and philosophical insights into what makes great fiction work. This book challenged what I think about storytelling, opening my mind to deeper reflections and what it means to me as a reader and aspiring writer.
 
-Have you read any of these books? I'd love to hear what stood out to you from your own reading this year.
-
 **4. The Bee Sting by Paul Murray**
 
 The Bee Sting is an extraordinary novel that explores the same events through the perspectives of different family members, revealing how profoundly reality can shift depending on who is telling the story. What impressed me most is that each character’s viewpoint is written in a distinct style, a bold choice that made this reading experience so unique. This is not an easy book, it tackles heavy themes such as mental illness, domestic violence, teen cybersecurity, bullying, self-acceptance, and more, but that depth is precisely what gives it its power. If you’re willing to engage with challenging subjects and complex emotions, this is a book I highly recommend.
 
 **5. Untangled by Lisa Damour**
 
-This is a must-read for parents navigating the teenage years. As a mom of a pre-teen girl and a teen boy, I found this book incredibly helpful. While the focus is on girls, the insights apply to understanding teenagers of any gender. It helps understand what changes are part of normal development, how to respond, and how to recognize signs that may require closer attention.
+This is a must-read for parents navigating the teenage years. As a mom of a pre-teen girl and a teen boy, I found this book incredibly helpful. While the focus is on girls, the insights apply to understanding teenagers of any gender. It helps understand what changes are part of normal development, how to respond, and how to recognize signs that may require closer attention. If you’ve ever heard Lisa Damour speak, you can imagine how good it feels to read her book, it's clear and grounded in real-life experience.
+
+Have you read any of these books? I'd love to hear what stood out to you from your own reading this year.
 
 ### Stats
 
