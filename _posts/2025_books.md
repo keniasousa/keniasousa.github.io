@@ -21,7 +21,7 @@ A beautifully written portrait of a woman whose personal story is deeply intertw
 
 **2. Mindsight by Daniel Siegel**
 
-This book taught me a great deal about the brain and the real possibilities of personal transformation. It has been especially meaningful as I work through overcoming my fear of swimming in open water. Mindsignt is a book I know I'll return to again and again, next time with a notebook in hand. It's the best book on mental health I've read so far, and I highly recommend it!
+This book taught me a great deal about the brain and the real possibilities of personal transformation. It has been especially meaningful as I work through overcoming my fear of swimming in open water. Mindsight is a book I know I'll return to again and again, next time with a notebook in hand. It's the best book on mental health I've read so far, and I highly recommend it!
 
 **3. A Swim in a Pond in the Rain by George Saunders**
 
