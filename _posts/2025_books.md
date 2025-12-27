@@ -35,7 +35,7 @@ The Bee Sting is an extraordinary novel that explores the same events through th
 
 **5. Untangled by Lisa Damour**
 
-This is a must-read for parents navigating the teenage years. As a mom of a pre-teen girl and a teen boy, I found this book incredibly helpful and reassuring. While the focus is on girls, the insights apply to understanding teenagers of any gender. It helps understand what changes are part of normal development, how to respond, and how to recognize signs that may require closer attention.
+This is a must-read for parents navigating the teenage years. As a mom of a pre-teen girl and a teen boy, I found this book incredibly helpful. While the focus is on girls, the insights apply to understanding teenagers of any gender. It helps understand what changes are part of normal development, how to respond, and how to recognize signs that may require closer attention.
 
 ### Stats
 
