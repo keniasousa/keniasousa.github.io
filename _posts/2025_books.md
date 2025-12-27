@@ -5,7 +5,7 @@ date: 2025-12-27 12:00:00 +0200
 categories: books, fiction, non-fiction
 ---
 
-![Network](/images/posts/books.png)
+![Network](/images/posts/books-2025.png)
 
 I want to share the best books I read in 2005.
 
