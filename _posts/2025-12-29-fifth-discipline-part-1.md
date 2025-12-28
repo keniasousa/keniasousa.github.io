@@ -17,10 +17,18 @@ So if we take an organization as a system, we can use Systems Thinking as a way 
 
 When an organization follows Systems Thinking and all its best practices, tools and disciplines, it is called a ***Learning Organization***. I like the term because it represents an organization that is always in the state of learning, continually expanding its capacity to create its future.
 
-Peter Senge identified seven learning disabilities that don't let the organizationrecognize threats to their growth, understand the implications of those threats or come up with alternatives:
+Peter Senge identified learning disabilities that don't let the organizationrecognize threats to their growth, understand the implications of those threats or come up with alternatives:
 
 **1. I am my position:** If I focus on my position only, I have little sense of responsibility for the results when all positions interact.
 
-**2. The enemy is out there:** 
+**2. The enemy is out there:** If we don't see how positions or departments interact, we don't see how our own actions extend beyond that position or department.
 
-t
+**3. The illusion fo taking chage:** When we respond to issues only reacting to events, we are not seeing how we contribute to our problems.
+
+**4. The fixation on events:** Focusing on events distracts us from seeing the longer-term patterns that lie behind the events and from understanding the root causes of these patterns.
+
+**5. The parable of the boiled frog:** Organizations can't feel they are in the middle of a crisis until they slow down and look at the processes that pose the greatest threat.
+
+**6. The delusion of learning from experience:** When organizations try to solve their difficulties by breaking themselves up in components, analysis of the most complex issues that cross functional lines becomes a non-existing exercise.
+
+**7. The myth of the management team:** 
