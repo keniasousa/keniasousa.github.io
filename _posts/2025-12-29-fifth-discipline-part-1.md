@@ -17,7 +17,7 @@ So if we take an organization as a system, we can use Systems Thinking as a way 
 
 When an organization follows Systems Thinking and all its best practices, tools and disciplines, it is called a ***Learning Organization***. I like the term because it represents an organization that is always in the state of learning, continually expanding its capacity to create its future.
 
-Peter Senge identified learning disabilities that don't let the organizations recognize threats to their growth, understand the implications of those threats or come up with alternatives to change:
+Peter Senge identified learning disabilities that don't let organizations recognize threats to their growth, understand the implications of those threats or come up with alternatives to change:
 
 **I am my position:** If we focus on our positions only, we have little sense of responsibility for the results when all positions interact and we don't see how our own actions extend beyond that position.
 
@@ -26,6 +26,19 @@ Peter Senge identified learning disabilities that don't let the organizations re
 **The parable of the boiled frog:** When organizations are set up to react to sudden changes, they can't feel slow, gradual changes and won't stop to look at the processes that pose the greatest threats.
 
 **The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, they don't know they need to look at cross functional lines to analyze their issues.
+
+Systems Thinking alone is not enough to become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated. Systems Thinking also needs teams willing to:
+
+
+1. Build a **shared vision**, a picture of the future that we want to create together. Here, there is an important distinction, we're looking to build a vision that fosters commitment rather than compliance.
+  
+2. Look inward, being open top unearth the shortcomings in our present ways of seeing the world (our **mental models**).
+  
+3. **Learn as a team**, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes.
+  
+4. Be made up of lifelong learners, committed to our **personal mastery** so we have the skills to learn with each other and innovate as a team.
+
+5. See actions, events, behaviors as **systems**, interconnected and look at the root causes of behaviors so we can change them.
 
 We can see two important concepts from lean management: look for the **root cause** of problems and analyze end-to-end **processes**. 
 
