@@ -29,7 +29,6 @@ Peter Senge identified learning disabilities that don't let organizations recogn
 
 Systems Thinking alone is not enough to become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated. Systems Thinking also needs teams willing to:
 
-
 1. Build a **shared vision**, a picture of the future that we want to create together. Here, there is an important distinction, we're looking to build a vision that fosters commitment rather than compliance.
   
 2. Look inward, being open top unearth the shortcomings in our present ways of seeing the world (our **mental models**).
@@ -40,7 +39,7 @@ Systems Thinking alone is not enough to become a learning organization, that's w
 
 5. See actions, events, behaviors as **systems**, interconnected and look at the root causes of behaviors so we can change them.
 
-We can see two important concepts from lean management: look for the **root cause** of problems and analyze end-to-end **processes**. 
+It's easier said than done, but that's why we're studying this book. We can see two important concepts from lean management: look for the **root cause** of problems, question our assumptions, and analyze end-to-end **processes**. 
 
 
 
