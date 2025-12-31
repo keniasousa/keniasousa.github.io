@@ -39,7 +39,9 @@ Systems Thinking alone is not enough to become a learning organization, that's w
 
 5. See actions, events, behaviors as **systems**, interconnected and look at the root causes of behaviors so we can change them.
 
-It's easier said than done, but that's why we're studying this book. We can see two important concepts from lean management: look for the **root cause** of problems, question our assumptions, and analyze end-to-end **processes**. 
+It's easier said than done, but that's why we're studying this book. We can see two important concepts from lean thinking: look for the **root cause** of problems, question our assumptions, analyze end-to-end **processes** looking for **wastes** that cause deviations from the perfect process so we can **continuously improve** towards a vision. 
+
+As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking.
 
 
 
