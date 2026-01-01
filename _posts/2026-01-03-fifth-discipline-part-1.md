@@ -49,7 +49,7 @@ It's easier said than done, but that's why we're reading this book. As I reviewe
 
 - Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
 
-![Network](/images/posts/pyramid-toyota-way.jpg)
+![Network](/images/posts/pyramid-toyota-way.png)
 
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
