@@ -5,6 +5,8 @@ date: 2026-01-03 12:00:00 +0200
 categories: learning organization
 ---
 
+This year, I invite you to read two books with me. The Fifth Discipline and The Toypta Way to Service Excellence.
+
 Why is the Fifth Discipline important? Why should I have a systems thinking approach?
 
 We tend to focus on what we have to do and can't see how our actions impact others. Even harder it is to see that the effect of our own actions come back to impact us. That is where systems thinking helps: You can only undertand systems by contemplating the whole, not any individual part.
