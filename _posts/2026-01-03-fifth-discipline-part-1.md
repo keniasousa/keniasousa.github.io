@@ -52,9 +52,11 @@ As I reviewed this material, I remembered that the book "The Toyota Way to Servi
 
 To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving:
 
+
 ![Network](/images/posts/pyramid-toyota-way.jpg)
 
-Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website] [liker-advisor]{:target="_blank"} 
+
+Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
 
 Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
