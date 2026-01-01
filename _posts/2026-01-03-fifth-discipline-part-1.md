@@ -7,11 +7,11 @@ categories: learning organization
 
 Why is the Fifth Discipline important? Why should I have a systems thinking approach?
 
-We tend to focus on what we have to do and can't see how our actions impact others. Even harder it is to see that the effect of our own actions come back to impact us. That is where systems thinking helps: You can only undertand systems (for instance, businesses, schools) by contemplating the whole, not any individual part.
+We tend to focus on what we have to do and can't see how our actions impact others. Even harder it is to see that the effect of our own actions come back to impact us. That is where systems thinking helps: You can only undertand systems by contemplating the whole, not any individual part.
 
 <!-- more -->
 
-Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can be a business, a school, a university, a team, and it also apply to a rainstorm system, a production system, etc. 
+Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can be a business, a school, a university, a team, and it also applies to a rainstorm system, a production system, etc. 
 
 So if we take an organization as a system, we can use Systems Thinking as a way of looking at that organization differently: looking at the actions and interactions, not as isolated parts of the system, but as interrelated, how they work together, and how they impact each other. Systems Thinking helps us see how our own actions create the problems we experience and how to make changes.
 
