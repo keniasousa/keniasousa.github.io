@@ -10,49 +10,45 @@ Instructions:
 For each statement, rate your organization on a scale of 1–5:
 1 = Strongly disagree | 3 = Somewhat true | 5 = Strongly agree
 
-
-
-
-1. Mindset & Leadership
+1. Systems Thinking
 
 | Statement  | 1 | 2 | 3 | 4 | 5 |
 |------------|---|---|---|---|---|
-| Leaders regularly look beyond symptoms to understand root causes and system-wide impacts. |   |   |   |   |  |
+| Leaders look beyond symptoms to understand root causes. |   |   |   |   |  |
 | Decisions consider long-term consequences, not just short-term targets. |   |   |   |   |  |
 | Leaders encourage questioning assumptions and mental models. |   |   |   |   |  |
 
+2. Teams
 
-2. Structure & Silos
+| Statement  | 1 | 2 | 3 | 4 | 5 |
+|------------|---|---|---|---|---|
+| Work is designed and managed across functions rather than optimized within silos. |   |   |   |   |  |
+| Teams understand how their work affects upstream and downstream processes |   |   |   |   |  |
+| Accountability is shared for end-to-end outcomes, not just local performance. |   |   |   |   |  |
 
-Work is designed and managed across functions rather than optimized within silos.
+3. Learning
 
-Teams understand how their work affects upstream and downstream processes.
+| Statement  | 1 | 2 | 3 | 4 | 5 |
+|------------|---|---|---|---|---|
+| We actively use feedback loops to adjust decisions. |   |   |   |   |  |
+| Failures are treated as learning opportunities.|   |   |   |   |  |
+| Improvements are tested, observed, and adapted rather than rolled out as one-time fixes.|   |   |   |   |  |
 
-Accountability is shared for end-to-end outcomes, not just local performance.
+4. Mental Models
 
-3. Feedback & Learning
+| Statement  | 1 | 2 | 3 | 4 | 5 |
+|------------|---|---|---|---|---|
+| We use visual tools (e.g. process maps, value streams) to understand complexity. |   |   |   |   |  |
+| Problems are framed in terms of interactions and patterns, not isolated events.|   |   |   |   |  |
+| Data is used to understand trends and relationships, not just point-in-time metrics.|   |   |   |   |  |
 
-We actively use feedback loops (data, customer input, retrospectives) to adjust decisions.
-
-Failures and unintended consequences are treated as learning opportunities.
-
-Improvements are tested, observed, and adapted rather than rolled out as one-time fixes.
-
-4. Tools & Practices
-
-We use visual tools (e.g., system maps, causal loop diagrams, value streams) to understand complexity.
-
-Problems are framed in terms of interactions and patterns, not isolated events.
-
-Data is used to understand trends and relationships, not just point-in-time metrics.
-
-5. Culture & Capability
-
-Employees at multiple levels are trained in systems thinking concepts.
-
-Collaboration and knowledge sharing are actively rewarded.
-
-Change initiatives consider people, process, technology, and environment together.
+5. Vision
+UPDATE
+| Statement  | 1 | 2 | 3 | 4 | 5 |
+|------------|---|---|---|---|---|
+| Employees at multiple levels are trained in systems thinking concepts.|   |   |   |   |  |
+| Collaboration and knowledge sharing are actively rewarded.|   |   |   |   |  |
+| Change initiatives consider people, process, technology, and environment together.|   |   |   |   |  |
 
 Scoring & Interpretation
 
