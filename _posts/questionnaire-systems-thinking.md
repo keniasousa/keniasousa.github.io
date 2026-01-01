@@ -44,6 +44,7 @@ For each statement, rate your organization on a scale of 1–5:
 
 5. Vision
 UPDATE
+
 | Statement  | 1 | 2 | 3 | 4 | 5 |
 |------------|---|---|---|---|---|
 | Employees at multiple levels are trained in systems thinking concepts.|   |   |   |   |  |
