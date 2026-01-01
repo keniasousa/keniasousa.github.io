@@ -5,13 +5,13 @@ date: 2026-01-03 12:00:00 +0200
 categories: learning organization
 ---
 
-This year, I invite you to read two books with me. The Fifth Discipline and The Toypta Way to Service Excellence.
+This year, I invite you to read two books with me. The Fifth Discipline and The Toypta Way to Service Excellence.  As I started reading the Fifth Discipline, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking.
 
 Why is the Fifth Discipline important? Why should I have a systems thinking approach?
 
-We tend to focus on what we have to do and can't see how our actions impact others. Even harder it is to see that the effect of our own actions come back to impact us. That is where systems thinking helps: You can only undertand systems by contemplating the whole, not any individual part.
-
 <!-- more -->
+
+We tend to focus on what we have to do and can't see how our actions impact others. Even harder it is to see that the effect of our own actions come back to impact us. That is where systems thinking helps: You can only undertand systems by contemplating the whole, not any individual part.
 
 Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can be a business, a school, a university, a team, and it also applies to a rainstorm system, a production system, a healthcare system, etc. 
 
@@ -41,7 +41,7 @@ What we want to do is to watch out for those behaviours, avoid and solve them wi
 
 5. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
-It's easier said than done, but that's why we're reading this book. As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. As we learn about Systems Thinking, we can see important concepts from Lean Thinking: 
+It's easier said than done, but that's why we're reading this book. As we learn about Systems Thinking, we can see important concepts from Lean Thinking: 
 
 - Train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
 
