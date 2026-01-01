@@ -52,6 +52,8 @@ Imagine a healthcare system where patients do not wait, but flow through the exp
 
 To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving:
 
+![Network](/images/posts/liker-toyota-way-4p-model.png)
+
 Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow and focus on solving problems.
 
 Design your business processes. Start with a high level view, understand what customers want, how much and whtn, then design the key processes to achieve these goals. Then start the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, getting closer to the vision.
