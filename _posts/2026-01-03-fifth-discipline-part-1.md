@@ -71,31 +71,17 @@ There isn't a recipe to be copied and it's challenging to put it in practice. Bu
 
 Where are you in this process? How does your organization learn? What’s one small experiment you could run to strengthen Systems Thinking?
 
-[liker-advisor]: http://www.likerleanadvisors.com/interview-with-jeff-liker-the-toyota-way-to-service-excellence/
-
 ## Key Concepts
 
-- Lean means doing more with less, like a professional athlete.
-- Continuous Improvement means that we're constantly challending the way we work to find a better way.
-- Kaizen means "change for the better", systematically working toward overcoming obstacle after obstacle one at a time, experimenting and learning from each experiment.
-- Waste is anything that causes deviation from the perfect process: a process, without interruptions, that gives the customer exactly what they want, in the amount they want, when they want it.
-- Jidoka is a pillar of the Toyota Production System to stop when there is a quality problem and immediately solve the problem.
-- Gemba is where the work is done, where we can observe the reality.
-- Just-in-Time means "the right part at the right time in the right amount".
-- Built-in Quality is when quality is integrated in every step of a process to prevent defects, not only at the end.
-- Takt is the rate of customer demand.
-- One-piece flow is that "perfect" process where each step does what it is supposed to do without waste. We can recognize that there is no perfect process, but we're always striving to achieve it.
+- **Lean** means doing more with less, like a professional athlete.
+- **Continuous Improvement** means that we're constantly challending the way we work to find a better way.
+- **Kaizen** means "change for the better", systematically working toward overcoming obstacle after obstacle one at a time, experimenting and learning from each experiment.
+- **Waste** is anything that causes deviation from the "perfect" process: a process, without interruptions, that gives the customer exactly what they want, in the amount they want, when they want it.
+- **Jidoka** is a pillar of the Toyota Production System to stop when there is a quality problem and immediately solve the problem.
+- **Gemba** is where the work is done, where we can observe the reality.
+- **Just-in-Time** means "the right part at the right time in the right amount".
+- **Built-in Quality** is when quality is integrated in every step of a process to prevent defects, not only at the end.
+- **Takt** is the rate of customer demand.
+- **One-piece flow** is that "perfect" process where each step does what it is supposed to do without waste. We can recognize that there is no perfect process, but we're always striving to achieve it.
 
-**1. I am my position:** If I focus on my position only, I have little sense of responsibility for the results when all positions interact.
-
-**2. The enemy is out there:** If we don't see how positions or departments interact, we don't see how our own actions extend beyond that position or department.
-
-**3. The illusion fo taking charge:** When we respond to issues only reacting to events, we are not seeing how we contribute to our problems.
-
-**4. The fixation on events:** Focusing on events distracts us from seeing the longer-term patterns that lie behind the events and from understanding the root causes of these patterns.
-
-**5. The parable of the boiled frog:** Organizations can't feel they are in the middle of a crisis until they slow down and look at the processes that pose the greatest threats.
-
-**6. The delusion of learning from experience:** When organizations try to solve their difficulties by breaking themselves up in components, analysis of the most complex issues that cross functional lines becomes a non-existing exercise.
-
-**7. The myth of the management team:** When organizations try to defend their traditional ways of doing things rather than to question tem, they stop developing the capacity to change those ways.
+[liker-advisor]: http://www.likerleanadvisors.com/interview-with-jeff-liker-the-toyota-way-to-service-excellence/
