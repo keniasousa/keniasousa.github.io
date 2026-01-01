@@ -3,8 +3,9 @@ layout: post
 title: "Systems Thinking Questionnaire"
 date: 2026-01-03 12:00:00 +0200
 categories: systems thinking
+---
 
-Systems Thinking Maturity Questionnaire
+#Systems Thinking Maturity Questionnaire
 
 Instructions:
 For each statement, rate your organization on a scale of 1–5:
@@ -51,7 +52,7 @@ UPDATE
 | Collaboration and knowledge sharing are actively rewarded.|   |   |   |   |  |
 | Change initiatives consider people, process, technology, and environment together.|   |   |   |   |  |
 
-Scoring & Interpretation
+#Scoring & Interpretation
 
 15–30 | Early / Reactive
 Focused on fixing issues in isolation. Systems thinking is limited or implicit.
