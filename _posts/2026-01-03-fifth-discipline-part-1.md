@@ -21,9 +21,9 @@ Peter Senge identified learning disabilities that don't let organizations recogn
 
 **I am my position:** If we focus on our positions only, we have little sense of responsibility for the results when all positions interact and we don't see how our own actions extend beyond that position.
 
-**The illusion fo taking charge:** When we respond to issues only reacting to events, we can't see the longer-term patterns that lie behind the events and from understanding the root causes of these patterns.
+**The illusion fo taking charge:** When we respond to issues only reacting to events, we can't see the longer-term patterns that lie behind the events and can't understand the root causes of these patterns.
 
-**The parable of the boiled frog:** When organizations are set up to react to sudden changes, they can't feel slow, gradual changes and won't stop to look at the processes that pose the greatest threats.
+**The parable of the boiled frog:** When organizations are set up to react to sudden changes, they can't feel slow, gradual changes and won't stop to look at the processes that is posing the greatest threats.
 
 **The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, they don't know they need to look at cross functional lines to analyze their issues.
 
@@ -48,16 +48,17 @@ As I reviewed this material, I remembered that the book "The Toyota Way to Servi
 
 - Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
 
-Imagine a healthcare system where patients do not wait, but flow through the experience without interruptions. This is what we want in all services we provide as leaders and this is what we want as customers.
-
 To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving:
 
 ![Network](/images/posts/liker-toyota-way-4p-model.png)
 
-Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow and focus on solving problems.
+Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
-Design your business processes. Start with a high level view, understand what customers want, how much and whtn, then design the key processes to achieve these goals. Then start the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, getting closer to the vision.
+Design your business processes. Start with a high level view, understand what customers want, how much and whtn, then design the key processes to achieve these goals. After that, get to the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, and getting closer to the vision.
 
+There isn't a recipe to be copied and it's challenging to put it in practice. But we're in a good pathway if we start designing processes and continually refine them to deliver the services that customers want.
+
+Where are you in this process? How does your organization learn? What’s one small experiment you could run to strengthen systems thinking?
 
 - Lean means doing more with less, like a professional athlete.
 - Continuous Improvement means that we're constantly challending the way we work to find a better way.
