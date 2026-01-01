@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fifth Discipline - Part I"
-date: 2025-12-29 12:00:00 +0200
+date: 2026-01-03 12:00:00 +0200
 categories: learning organization
 ---
 
@@ -31,19 +31,34 @@ Systems Thinking alone is not enough to become a learning organization, that's w
 
 1. Build a **shared vision**, a picture of the future that we want to create together. Here, there is an important distinction, we're looking to build a vision that fosters commitment rather than compliance.
   
-2. Look inward, being open top unearth the shortcomings in our present ways of seeing the world (our **mental models**).
-  
-3. **Learn as a team**, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes.
-  
-4. Be made up of lifelong learners, committed to our **personal mastery** so we have the skills to learn with each other and innovate as a team.
+2. Look inward, being open to unearth the shortcomings in our present ways of working (understanding our **mental models**).
+    
+3. Be made up of lifelong learners, committed to our **personal mastery** so we have the skills to learn with each other and innovate working and learning **as a team**. 
 
-5. See actions, events, behaviors as **systems**, interconnected and look at the root causes of behaviors so we can change them.
+4. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
-It's easier said than done, but that's why we're studying this book. We can see two important concepts from lean thinking: look for the **root cause** of problems, question our assumptions, analyze end-to-end **processes** looking for **wastes** that cause deviations from the perfect process so we can **continuously improve** towards a vision. 
+It's easier said than done, but that's why we're reading this book. 
+As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. And learning about Systems Thinking, we can see important concepts from lean thinking: 
+- train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
+- question our assumptions and look for the **root cause** of problems, 
+- analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
 
-As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking.
+I feel this is theoretical, let's look at all this with examples. 
 
 
+
+We 
+
+- Lean means doing more with less, like a professional athlete.
+- Continuous Improvement means that we're constantly challending the way we work to find a better way.
+- Kaizen means "change for the better", systematically working toward overcoming obstacle after obstacle one at a time, experimenting and learning from each experiment.
+- Waste is anything that causes deviation from the perfect process: a process, without interruptions, that gives the customer exactly what they want, in the amount they want, when they want it.
+- Jidoka is a pillar of the Toyota Production System to stop when there is a quality problem and immediately solve the problem.
+- Gemba is where the work is done, where we can observe the reality.
+- Just-in-Time means "the right part at the right time in the right amount".
+- Built-in Quality
+- Takt is the rate of customer demand.
+- One-piece flow is that "perfect" process where each step does what it is supposed to do without waste. We can recognize that there is no perfect process, but we're always striving to achieve it.
 
 **1. I am my position:** If I focus on my position only, I have little sense of responsibility for the results when all positions interact.
 
