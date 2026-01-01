@@ -5,7 +5,7 @@ date: 2026-01-03 12:00:00 +0200
 categories: learning organization
 ---
 
-This year, I invite you to read two books with me. The Fifth Discipline and The Toypta Way to Service Excellence.  As I started reading the Fifth Discipline, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking.
+This year, I invite you to read two books with me. The Fifth Discipline and The Toyota Way to Service Excellence.  As I started reading the Fifth Discipline, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking.
 
 Why is the Fifth Discipline important? Why should I have a systems thinking approach?
 
@@ -15,7 +15,7 @@ We tend to focus on what we have to do and can't see how our actions impact othe
 
 Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can be a business, a school, a university, a team, and it also applies to a rainstorm system, a production system, a healthcare system, etc. 
 
-So if we take an organization as a system, we can use Systems Thinking as a way of looking at that organization differently: looking at the actions and interactions, not as isolated parts of the system, but as interrelated, how they work together, and how they impact each other. Systems Thinking helps us see how our own actions create the problems we experience and how to make changes.
+So if we take an organization as a system, we can use Systems Thinking as a way of looking at it differently: looking at the actions and interactions, not as isolated parts of the system, but as interrelated, how they work together, and how they impact each other. Systems Thinking helps us see how our own actions create the problems we experience and how to make changes.
 
 When an organization follows Systems Thinking and all its best practices, tools and disciplines, it is called a ***Learning Organization***. I like the term because it represents an organization that is always in the state of learning, continually expanding its capacity to create its future.
 
@@ -29,7 +29,7 @@ Peter Senge identified learning disabilities that don't let organizations recogn
 
 **The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, they don't know they need to look at cross functional lines to analyze their issues.
 
-What we want to do is to watch out for those behaviours, avoid and solve them with a new way of thinking. But, Systems Thinking alone is not enough to help you become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated with other principles. Systems Thinking also needs teams willing to:
+What we want to do is to watch out for those behaviours, avoid and solve them with a new way of thinking. But, Systems Thinking alone is not enough to help us become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated with other disciplines. Systems Thinking also needs teams willing to:
 
 1. Build a **shared vision**, a picture of the future that we want to create together. Here, there is an important distinction, we're looking to build a vision that fosters commitment rather than compliance.
   
@@ -41,7 +41,7 @@ What we want to do is to watch out for those behaviours, avoid and solve them wi
 
 5. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
-It's easier said than done, but that's why we're reading this book. As we learn about Systems Thinking, we can see important concepts from Lean Thinking: 
+As we learn about Systems Thinking, we can see important concepts from Lean Thinking: 
 
 - Train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
 
@@ -58,13 +58,15 @@ To help organizations get started, Liker proposes a model focused on philosophy,
 
 Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
-Design your business processes. Start with a high level view, understand what customers want, how much and whtn, then design the key processes to achieve these goals. After that, get to the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, and getting closer to the vision.
+Design your business processes. Start with a high level view, understand what customers want, how much and when, then design the key processes to achieve these goals. After that, get to the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, and getting closer to the vision.
 
 There isn't a recipe to be copied and it's challenging to put it in practice. But we're in a good pathway if we start designing processes and continually refine them to deliver the services that customers want.
 
-Where are you in this process? How does your organization learn? What’s one small experiment you could run to strengthen systems thinking?
+Where are you in this process? How does your organization learn? What’s one small experiment you could run to strengthen Systems Thinking?
 
 [liker-advisor]: http://www.likerleanadvisors.com/interview-with-jeff-liker-the-toyota-way-to-service-excellence/
+
+## Key Concepts
 
 - Lean means doing more with less, like a professional athlete.
 - Continuous Improvement means that we're constantly challending the way we work to find a better way.
