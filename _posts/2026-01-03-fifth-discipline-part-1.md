@@ -53,6 +53,7 @@ As I reviewed this material, I remembered that the book "The Toyota Way to Servi
 To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving:
 
 
+
 ![Network](/images/posts/pyramid-toyota-way.jpg)
 
 
