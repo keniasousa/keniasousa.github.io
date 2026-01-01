@@ -19,6 +19,8 @@ So if we take an organization as a system, we can use Systems Thinking as a way 
 
 When an organization follows Systems Thinking and all its best practices, tools and disciplines, it is called a ***Learning Organization***. I like the term because it represents an organization that is always in the state of learning, continually expanding its capacity to create its future.
 
+## Learning Disabilities
+
 Peter Senge identified learning disabilities that don't let organizations recognize threats to their growth, understand the implications of those threats or come up with alternatives to change:
 
 **I am my position:** If we focus on our positions only, we have little sense of responsibility for the results when all positions interact and we don't see how our own actions extend beyond that position.
@@ -28,6 +30,8 @@ Peter Senge identified learning disabilities that don't let organizations recogn
 **The parable of the boiled frog:** When organizations are set up to react to sudden changes, they can't feel slow, gradual changes and won't stop to look at the processes that is posing the greatest threats.
 
 **The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, they don't know they need to look at cross functional lines to analyze their issues.
+
+## Systems Thinking
 
 What we want to do is to watch out for those behaviours, avoid and solve them with a new way of thinking. But, Systems Thinking alone is not enough to help us become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated with other disciplines. Systems Thinking also needs teams willing to:
 
@@ -47,7 +51,9 @@ As we learn about Systems Thinking, we can see important concepts from Lean Thin
 
 - Question our assumptions and look for the **root cause** of problems, 
 
-- Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
+- Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals.
+
+## Lean Thinking
 
 ![Network](/images/posts/pyramid-toyota-way.png)
 
