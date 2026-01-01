@@ -45,6 +45,8 @@ What we want to do is to watch out for those behaviours, avoid and solve them wi
 
 5. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
+## Lean Thinking
+
 As we learn about Systems Thinking, we can see important concepts from Lean Thinking: 
 
 - Train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
@@ -53,10 +55,7 @@ As we learn about Systems Thinking, we can see important concepts from Lean Thin
 
 - Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals.
 
-## Lean Thinking
-
 ![Network](/images/posts/pyramid-toyota-way.png)
-
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
 
@@ -65,6 +64,8 @@ To help organizations get started, Liker proposes a model focused on philosophy,
 Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
 Design your business processes. Start with a high level view, understand what customers want, how much and when, then design the key processes to achieve these goals. After that, get to the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, and getting closer to the vision.
+
+## Conclusion
 
 There isn't a recipe to be copied and it's challenging to put it in practice. But we're in a good pathway if we start designing processes and continually refine them to deliver the services that customers want.
 
