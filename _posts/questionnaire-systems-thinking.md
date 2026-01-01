@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Systems Thinking Questionnaire"
+date: 2026-01-03 12:00:00 +0200
+categories: systems thinking
 
 Systems Thinking Maturity Questionnaire
 
@@ -10,8 +15,8 @@ For each statement, rate your organization on a scale of 1–5:
 
 1. Mindset & Leadership
 
-| Statement  | 1 |  2 |  3 |  4 |  5 |
-|-------|-----|-------|
+| Statement  | 1 | 2 | 3 | 4 | 5 |
+|------------|---|---|---|---|---|
 | Leaders regularly look beyond symptoms to understand root causes and system-wide impacts. |   |   |   |   |  |
 | Decisions consider long-term consequences, not just short-term targets. |   |   |   |   |  |
 | Leaders encourage questioning assumptions and mental models. |   |   |   |   |  |
