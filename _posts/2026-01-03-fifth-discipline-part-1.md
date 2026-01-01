@@ -29,7 +29,7 @@ Peter Senge identified learning disabilities that don't let organizations recogn
 
 **The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, they don't know they need to look at cross functional lines to analyze their issues.
 
-Systems Thinking alone is not enough to become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated. Systems Thinking also needs teams willing to:
+What we want to do is to watch out for those behaviours, avoid and solve them with a new way of thinking. But, Systems Thinking alone is not enough to help you become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated with other principles. Systems Thinking also needs teams willing to:
 
 1. Build a **shared vision**, a picture of the future that we want to create together. Here, there is an important distinction, we're looking to build a vision that fosters commitment rather than compliance.
   
@@ -41,8 +41,7 @@ Systems Thinking alone is not enough to become a learning organization, that's w
 
 5. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
-It's easier said than done, but that's why we're reading this book. 
-As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. And learning about Systems Thinking, we can see important concepts from Lean Thinking: 
+It's easier said than done, but that's why we're reading this book. As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. As we learn about Systems Thinking, we can see important concepts from Lean Thinking: 
 
 - Train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
 
@@ -50,14 +49,12 @@ As I reviewed this material, I remembered that the book "The Toyota Way to Servi
 
 - Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
 
-To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving:
-
-
-
 ![Network](/images/posts/pyramid-toyota-way.jpg)
 
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
+
+To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving.
 
 Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
