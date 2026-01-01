@@ -11,7 +11,7 @@ We tend to focus on what we have to do and can't see how our actions impact othe
 
 <!-- more -->
 
-Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can be a business, a school, a university, a team, and it also applies to a rainstorm system, a production system, etc. 
+Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can be a business, a school, a university, a team, and it also applies to a rainstorm system, a production system, a healthcare system, etc. 
 
 So if we take an organization as a system, we can use Systems Thinking as a way of looking at that organization differently: looking at the actions and interactions, not as isolated parts of the system, but as interrelated, how they work together, and how they impact each other. Systems Thinking helps us see how our own actions create the problems we experience and how to make changes.
 
@@ -33,9 +33,11 @@ Systems Thinking alone is not enough to become a learning organization, that's w
   
 2. Look inward, being open to unearth the shortcomings in our present ways of working (understanding our **mental models**).
     
-3. Be made up of lifelong learners, committed to our **personal mastery** so we have the skills to learn with each other and innovate working and learning **as a team**. 
+3. Be made up of lifelong learners, committed to our **personal mastery**
+  
+4. **Learn as a team** so we have the skills to learn with each other and innovate. 
 
-4. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
+5. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
 It's easier said than done, but that's why we're reading this book. 
 As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. And learning about Systems Thinking, we can see important concepts from lean thinking: 
