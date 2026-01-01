@@ -40,16 +40,22 @@ Systems Thinking alone is not enough to become a learning organization, that's w
 5. See actions, events, behaviors as **systems**, interconnected, looking at the larger picture and how we interact beyond individual perspectives, looking at end-to-end processes deeply, looking for the root causes of behaviors so we can change them.
 
 It's easier said than done, but that's why we're reading this book. 
-As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. And learning about Systems Thinking, we can see important concepts from lean thinking: 
-- train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
-- question our assumptions and look for the **root cause** of problems, 
-- analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
+As I reviewed this material, I remembered that the book "The Toyota Way to Service Excellence" by Jeffrey Liker could help us put the Systems Thinking in practice using Lean Thinking. And learning about Systems Thinking, we can see important concepts from Lean Thinking: 
 
-I feel this is theoretical, let's look at all this with examples. 
+- Train and develop people through **repeated practice**, challenge people to do their best as an individual and as a team,
 
+- Question our assumptions and look for the **root cause** of problems, 
 
+- Analyze end-to-end **processes** looking for wastes that cause deviations from the process so we can **continuously improve** towards our goals. 
 
-We 
+Imagine a healthcare system where patients do not wait, but flow through the experience without interruptions. This is what we want in all services we provide as leaders and this is what we want as customers.
+
+To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving:
+
+Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow and focus on solving problems.
+
+Design your business processes. Start with a high level view, understand what customers want, how much and whtn, then design the key processes to achieve these goals. Then start the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, getting closer to the vision.
+
 
 - Lean means doing more with less, like a professional athlete.
 - Continuous Improvement means that we're constantly challending the way we work to find a better way.
@@ -58,7 +64,7 @@ We
 - Jidoka is a pillar of the Toyota Production System to stop when there is a quality problem and immediately solve the problem.
 - Gemba is where the work is done, where we can observe the reality.
 - Just-in-Time means "the right part at the right time in the right amount".
-- Built-in Quality
+- Built-in Quality is when quality is integrated in every step of a process to prevent defects, not only at the end.
 - Takt is the rate of customer demand.
 - One-piece flow is that "perfect" process where each step does what it is supposed to do without waste. We can recognize that there is no perfect process, but we're always striving to achieve it.
 
