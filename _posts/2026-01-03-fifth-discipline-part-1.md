@@ -54,7 +54,7 @@ To help organizations get started, Liker proposes a model focused on philosophy,
 
 ![Network](/images/posts/pyramid-toyota-way.jpg)
 
-Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the Liker Lean Advisors website.
+Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website] [liker-advisor]{:target="_blank"} 
 
 Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
@@ -63,6 +63,8 @@ Design your business processes. Start with a high level view, understand what cu
 There isn't a recipe to be copied and it's challenging to put it in practice. But we're in a good pathway if we start designing processes and continually refine them to deliver the services that customers want.
 
 Where are you in this process? How does your organization learn? What’s one small experiment you could run to strengthen systems thinking?
+
+[liker-advisor]: http://www.likerleanadvisors.com/interview-with-jeff-liker-the-toyota-way-to-service-excellence/
 
 - Lean means doing more with less, like a professional athlete.
 - Continuous Improvement means that we're constantly challending the way we work to find a better way.
