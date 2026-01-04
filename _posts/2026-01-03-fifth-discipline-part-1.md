@@ -59,11 +59,11 @@ As we learn about Systems Thinking, we can see important concepts from Lean Thin
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
 
-To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving.
+To help organizations get started, Liker proposes a model focused on philosophy, process, people and problem solving. I would summarize it and ask us to focus on two aspects: 
 
-Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
+**Think long-term.** Not surprisingly, start with a long-term systems thinking approach to connect processes, people and problem solving in one strategy, creating a culture that challenges people to learn and grow. 
 
-Design your business processes. Start with a high level view, understand what customers want, how much and when, then design the key processes to achieve these goals. After that, get to the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, and getting closer to the vision.
+**Design your business processes.** Start with a high level view, understand what customers want, how much and when, then design the key processes to achieve these goals. After that, get to the detailed design, that's where the heavy lifting of continous improvement happens by team members. They are understanding the current state, developing future state visions, experimenting the changes, and getting closer to the vision.
 
 ## Conclusion
 
