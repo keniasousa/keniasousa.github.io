@@ -18,7 +18,7 @@ Together, these books answer two fundamental questions:
 
 We tend to focus on what we have to do, our tasks, our roles, our metrics. What's difficult is seeing how our actions affect others. Even harder it is to see that those effects loop back  and impact us. 
 
-This is where systems thinking becomes essential. As Senge reminds us: You can only undertand systems by contemplating the whole, not by analyzing its parts in isolation.
+This is where systems thinking becomes essential. As Senge reminds us: You can only understand systems by contemplating the whole, not by analyzing its parts in isolation.
 
 ## What do we mean by a System?
 
@@ -45,15 +45,15 @@ Peter Senge identified several patterns that prevent organizations to recognize 
 
 **I am my position:** When people focus only on their role, they don't see how their own actions extend beyond that role and they feel little sense of responsibility for overall outcomes.
 
-**The illusion fo taking charge:** When organizations respond to issues only reacting to events, they miss the long-term patterns that drive those events and fail to address the root causes of these patterns.
+**The illusion of taking charge:** When organizations respond to issues only reacting to events, they miss the long-term patterns that drive those events and fail to address the root causes of these patterns.
 
 **The parable of the boiled frog:** When organizations are set up to react to sudden changes, they miss slow, gradual changes that pose the greatest threats over time.
 
-**The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, teams fail to connect cause and the effect across functional boundaries.
+**The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, teams fail to connect cause and effect across functional boundaries.
 
 ## A Simple Example: A School as a System
 
-Imagine a school system. Your child tells you kid that teachers sometimes come unprepared for their lessons. For instance, your child detects a wrong question in an exam and after 20 minutes lost, the teacher asks the kids to skip it. Week after week, hearing other situations, your concern grows. You contact the school principle. To your surprise, the principle cuts you off when you're explaining and tells you to talk to the teachers directly ("This is not my position") and highlights these are their best teachers ("Surely, there is nothing wrong in here, the enemy is out there"). You keep hearing more cases from your child and similar impressions from other parents. Unfortunately, the consequences are not going to show up immediately ("The parable of the boiled frog"), but years later, when enrollment declines and trust is lost.
+Imagine a school system. Your child tells you that teachers sometimes come unprepared for their lessons. For instance, your child detects a wrong question in an exam and after 20 minutes lost, the teacher asks the kids to skip it. Week after week, hearing other situations, your concern grows. You contact the school principal. To your surprise, the principal cuts you off when you're explaining and tells you to talk to the teachers directly ("This is not my position") and highlights that these are their best teachers ("Surely, there is nothing wrong here, the enemy is out there"). You keep hearing more cases from your child and similar impressions from other parents. Unfortunately, the consequences are not going to show up immediately ("The parable of the boiled frog"), but years later, when enrollment declines and trust is lost.
 
 ## Systems Thinking
 
@@ -85,11 +85,11 @@ As we learn and practice Systems Thinking, we can see important concepts from Le
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
 
-To help organizations get started, Liker proposes a practical model focused on philosophy, process, people and problem solving. If I were to summarize it, I would higlight two essential points: 
+To help organizations get started, Liker proposes a practical model focused on philosophy, process, people and problem solving. If I were to summarize it, I would highlight two essential points: 
 
 **Think long-term.** Not surprisingly, adopt a long-term systems thinking approach that connects processes, people and problem solving in one coherent strategy, creating a culture that challenges people to learn and grow. 
 
-**Design your business processes.** Start with a high level understanding of customer needs: what they want, how much and when. Design key processes to achieve these goals, then move into detailed design, where the heavy lifting of continous improvement happens through experimentation, learning and refinement by the people doing the work.
+**Design your business processes.** Start with a high-level understanding of customer needs: what they want, how much and when. Design key processes to achieve these goals, then move into detailed design, where the heavy lifting of continuous improvement happens through experimentation, learning and refinement by the people doing the work.
 
 ## Conclusion
 
