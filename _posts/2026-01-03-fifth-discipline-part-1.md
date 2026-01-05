@@ -2,7 +2,7 @@
 layout: post
 title: "Two Books and an Invitation to Learn about Systems Thinking"
 date: 2026-01-03 12:00:00 +0200
-categories: learning organization
+categories: learning organization, systems thinking, lean
 ---
 
 This year, I invite you to read two books with me: The Fifth Discipline by Peter Senge and The Toyota Way to Service Excellence by Jeffrey Liker.  As I started reading the Fifth Discipline, I remembered how Liker's work helps us put Systems Thinking in practice through Lean Thinking.
@@ -22,7 +22,7 @@ This is where systems thinking becomes essential. As Senge reminds us: You can o
 
 ## What do we mean by a System?
 
-Let's start by understanding what we mean by a **system** in ***Systems Thinking***. A system can mean many things, a business, a school, a university, a team, or even a rainstorm system, a production line, or a healthcare system. 
+Let's start by understanding what we mean by a **system** in **Systems Thinking**. A system can mean many things, a business, a school, a university, a team, or even a rainstorm system, a production line, or a healthcare system. 
 
 So if we take an organization as a system, we can use Systems Thinking as a way of looking at it differently: looking at the actions and interactions, not as isolated parts of the system, but as interrelated, how they work together, and how they impact each other. Systems Thinking helps us see how our own actions create the problems we experience and how to make changes.
 
@@ -30,7 +30,7 @@ This shift in perspective allows us to stop reacting to symptoms and start addre
 
 ## From Systems Thinking to Learning Organizations
 
-When an organization consistently applies Systems Thinking and all its best practices, tools and disciplines, it becomes what Senge calls a ***Learning Organization***. 
+When an organization consistently applies Systems Thinking and all its best practices, tools and disciplines, it becomes what Senge calls a **Learning Organization**. 
 
 I love this term because it represents an organization that is:
 - Always in the state of learning
@@ -81,7 +81,7 @@ As we learn and practice Systems Thinking, we can see important concepts from Le
   
 - **Improve continuously** in pursuit of customer value.
 
-![Toyota-Way](/images/posts/pyramid-toyota-way.png)
+![Toyota-Way](/images/posts/pyramid-toyota-way.png){width=450 height=250}
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
 
