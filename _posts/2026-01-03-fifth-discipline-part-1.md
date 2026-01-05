@@ -81,7 +81,7 @@ As we learn and practice Systems Thinking, we can see important concepts from Le
   
 - **Improve continuously** in pursuit of customer value.
 
-![Toyota-Way](/images/posts/pyramid-toyota-way.png=100x20)
+![Toyota-Way](/images/posts/pyramid-toyota-way.png =100x20)
 
 Image from The Toyota Way to Service Excellence by Jeffrey Liker and Karyh Ross available at the [Liker Lean Advisors website][liker-advisor]{:target="_blank"}.
 
