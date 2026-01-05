@@ -31,9 +31,13 @@ Peter Senge identified learning disabilities that don't let organizations recogn
 
 **The delusion of learning from experience:** When the negative effects of their actions happen elsewhere, they don't know they need to look at cross functional lines to analyze their issues.
 
+## An Example
+
+Imagine a hypothetical situation in a school system. You hear from your kid that some teachers come unprepared for their lessons, for instance, your kid detects a wrong question in an exam and after 20 minutes trying to solve it, the teacher asks the kids to skip it. Week after week, hearing other situations, your concern increases and you decide to call the school principle. To your surprise, the principle cuts you off when you're explaining and tells you to talk to the teachers directly ("This is not my position") and highlights these are their best teachers ("Surely, there is nothing wrong in here, the enemy is out there"). You keep hearing more cases from your kid and similar impressions from other parents. Unfortunately, the consequences are not going to show up soon ("The parable of the boiled frog"), but in the next years when more students leave the school.
+
 ## Systems Thinking
 
-What we want to do is to watch out for those behaviours, avoid and solve them with a new way of thinking. But, Systems Thinking alone is not enough to help us become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated with other disciplines. Systems Thinking also needs teams willing to:
+What we want to do is to watch out for those behaviours, and solve them with a new way of thinking. But, Systems Thinking alone is not enough to help us become a learning organization, that's why Peter Senge calls it the **Fifth Discipline**, it needs to be integrated with other disciplines. Systems Thinking also needs teams willing to:
 
 1. Build a **shared vision**, a picture of the future that we want to create together. Here, there is an important distinction, we're looking to build a vision that fosters commitment rather than compliance.
   
