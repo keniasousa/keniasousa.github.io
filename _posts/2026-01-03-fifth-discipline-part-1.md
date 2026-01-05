@@ -97,7 +97,9 @@ There isn't a recipe to be copied and it's challenging to apply Systems Thinking
 
 So, I'll leave you with a few questions:
 
-Where are you in this process? How does your organization learn? What’s one small experiment you could run to strengthen Systems Thinking?
+- Where are you in this process?
+- How does your organization learn?
+- What’s one small experiment you could run to strengthen Systems Thinking?
 
 ## Key Concepts
 
